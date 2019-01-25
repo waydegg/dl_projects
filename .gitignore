@@ -1,1 +1,7 @@
-data/
+data/memes/*
+data/phones/*.jpg
+data/phones/models
+data/phones/large
+data/phones/labels.csv
+
+.ipynb_checkpoints/

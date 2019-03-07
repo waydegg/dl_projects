@@ -3,5 +3,7 @@ data/phones/*.jpg
 data/phones/models
 data/phones/large
 data/phones/labels.csv
+data/gan_project/normal
+data/gan_project/crappy
 
 .ipynb_checkpoints/

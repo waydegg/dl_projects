@@ -5,32 +5,41 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.autograd import Variable
 import numpy as np
+from util import *
+
+def get_test_input():
+    img = cv2.imread("dog-cycle-car.png")
+    img = cv2.resize(img, (416,416))            # Resize to the input dimention
+    img_ = img[:,:,::-1].transpose((2, 0, 1))   # BGR -> RGB | H X W C -> C X H X W
+    img_ = img_[np.newaxis,:,:,:]/255.0         # Add a channel at 0 (for batch) | Normalize
+    img_ = torch.from_numpy(img_).float()       # Convert to float
+    img_ = Variable(img_)                       # Convert to Variable
+    return img_
+
 
 def parse_cfg(cfgfile):
     """
     Takes a configuration file
-
-    Returns a list of blocks. Each block describes a block in the neural
-    network to be build. Block is represented as a directory in the list
-
+    
+    Returns a list of blocks. Each blocks describes a block in the neural
+    network to be built. Block is represented as a dictionary in the list
+    
     """
-
-    # Preprocessing
     file = open(cfgfile, 'r')
-    lines = file.read().split('\n')                  # stores the lines in a list
-    lines = [x for x in lines if len(x) > 0]        # remove empty lines
-    lines = [x for x in lines if x[0] != '#']       # remove comments
-    lines = [x.rstrip().lstrip() for x in lines]    # remove fringe whitespaces
+    lines = file.read().split('\n')     #store the lines in a list
+    lines = [x for x in lines if len(x) > 0] #get read of the empty lines 
+    lines = [x for x in lines if x[0] != '#']  
+    lines = [x.rstrip().lstrip() for x in lines]
 
-
+    
     block = {}
     blocks = []
-
+    
     for line in lines:
-        if line[0] == "[":                          # Marks the start of a new block
-            if len(block) != 0:                     # If the block isn't empty, store values into the previous block
-                blocks.append(block)                # add the block to the blocks list
-                block = {}                          # re-init the block
+        if line[0] == "[":               #This marks the start of a new block
+            if len(block) != 0:
+                blocks.append(block)
+                block = {}
             block["type"] = line[1:-1].rstrip()
         else:
             key,value = line.split("=")
@@ -40,15 +49,22 @@ def parse_cfg(cfgfile):
     return blocks
 
 
-# Custom Layers
 class EmptyLayer(nn.Module):
     def __init__(self):
         super(EmptyLayer, self).__init__()
+        
 
 class DetectionLayer(nn.Module):
     def __init__(self, anchors):
         super(DetectionLayer, self).__init__()
         self.anchors = anchors
+    
+    def forward(self, x, inp_dim, num_classes, confidence):
+        x = x.data
+        global CUDA
+        prediction = x
+        prediction = predict_transform(prediction, inp_dim, self.anchors, num_classes, confidence, CUDA)
+        return prediction
 
 
 def create_modules(blocks):
@@ -151,5 +167,74 @@ def create_modules(blocks):
     return (net_info, module_list)
 
 blocks = parse_cfg("cfg/yolov3.cfg")
-print(create_modules(blocks))
+# print(create_modules(blocks))
+
+
+class Darknet(nn.Module):
+    def __init__(self, cfgfile):
+        super(Darknet, self).__init__()
+        self.blocks = parse_cfg(cfgfile)
+        self.net_info, self.module_list = create_modules(self.blocks)
+        
+    def forward(self, x, CUDA):
+        modules = self.blocks[1:]
+        outputs = {}   #We cache the outputs for the route layer
+        
+        write = 0
+        for i, module in enumerate(modules):        
+            module_type = (module["type"])
+            
+            if module_type == "convolutional" or module_type == "upsample":
+                x = self.module_list[i](x)
+    
+            elif module_type == "route":
+                layers = module["layers"]
+                layers = [int(a) for a in layers]
+    
+                if (layers[0]) > 0:
+                    layers[0] = layers[0] - i
+    
+                if len(layers) == 1:
+                    x = outputs[i + (layers[0])]
+    
+                else:
+                    if (layers[1]) > 0:
+                        layers[1] = layers[1] - i
+    
+                    map1 = outputs[i + layers[0]]
+                    map2 = outputs[i + layers[1]]
+                    x = torch.cat((map1, map2), 1)
+                
+    
+            elif  module_type == "shortcut":
+                from_ = int(module["from"])
+                x = outputs[i-1] + outputs[i+from_]
+    
+            elif module_type == 'yolo':        
+                anchors = self.module_list[i][0].anchors
+                #Get the input dimensions
+                inp_dim = int (self.net_info["height"])
+        
+                #Get the number of classes
+                num_classes = int (module["classes"])
+        
+                #Transform 
+                x = x.data
+                x = predict_transform(x, inp_dim, anchors, num_classes, CUDA)
+                if not write:              #if no collector has been intialised. 
+                    detections = x
+                    write = 1
+        
+                else:       
+                    detections = torch.cat((detections, x), 1)
+        
+            outputs[i] = x
+        
+        return detections
+            
+model = Darknet("cfg/yolov3.cfg")
+inp = get_test_input()
+pred = model(inp, torch.cuda.is_available())
+print(pred)
+
 

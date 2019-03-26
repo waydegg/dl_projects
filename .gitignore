@@ -7,4 +7,7 @@ data/gan_project/normal
 data/gan_project/crappy
 data/gan_project/image_gen
 data/gan_project/models
+data/gan_project/cool_pics
+data/gan_project/large
+
 .ipynb_checkpoints/

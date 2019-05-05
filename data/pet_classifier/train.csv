@@ -1,0 +1,3681 @@
+breedID,speciesID,fname,breed_name
+23,2,0,newfoundland
+35,2,1,staffordshire bull terrier
+19,2,2,keeshond
+2,2,3,american bulldog
+29,2,4,saint bernard
+28,1,5,Russian Blue
+6,1,6,Bengal
+19,2,7,keeshond
+37,2,8,yorkshire terrier
+30,2,9,samoyed
+5,2,10,beagle
+22,2,11,miniature pinscher
+24,1,12,Persian
+23,2,13,newfoundland
+35,2,14,staffordshire bull terrier
+31,2,15,scottish terrier
+31,2,16,scottish terrier
+19,2,17,keeshond
+24,1,18,Persian
+26,2,19,pug
+32,2,20,shiba inu
+25,2,21,pomeranian
+30,2,22,samoyed
+26,2,23,pug
+26,2,24,pug
+32,2,25,shiba inu
+16,2,26,great pyrenees
+9,2,27,boxer
+34,1,28,Sphynx
+19,2,29,keeshond
+8,1,30,Bombay
+12,1,31,Egyptian Mau
+29,2,32,saint bernard
+13,2,33,english cocker spaniel
+17,2,34,havanese
+8,1,35,Bombay
+31,2,36,scottish terrier
+27,1,37,Ragdoll
+16,2,38,great pyrenees
+22,2,39,miniature pinscher
+37,2,40,yorkshire terrier
+2,2,41,american bulldog
+35,2,42,staffordshire bull terrier
+6,1,43,Bengal
+15,2,44,german shorthaired
+9,2,45,boxer
+9,2,46,boxer
+10,1,47,British Shorthair
+24,1,48,Persian
+19,2,49,keeshond
+5,2,50,beagle
+15,2,51,german shorthaired
+35,2,52,staffordshire bull terrier
+9,2,53,boxer
+2,2,54,american bulldog
+27,1,55,Ragdoll
+14,2,56,english setter
+31,2,57,scottish terrier
+23,2,58,newfoundland
+17,2,59,havanese
+26,2,60,pug
+18,2,61,japanese chin
+18,2,62,japanese chin
+12,1,63,Egyptian Mau
+7,1,64,Birman
+24,1,65,Persian
+13,2,66,english cocker spaniel
+11,2,67,chihuahua
+29,2,68,saint bernard
+7,1,69,Birman
+18,2,70,japanese chin
+10,1,71,British Shorthair
+20,2,72,leonberger
+30,2,73,samoyed
+5,2,74,beagle
+12,1,75,Egyptian Mau
+27,1,76,Ragdoll
+31,2,77,scottish terrier
+35,2,78,staffordshire bull terrier
+26,2,79,pug
+27,1,80,Ragdoll
+36,2,81,wheaten terrier
+31,2,82,scottish terrier
+37,2,83,yorkshire terrier
+28,1,84,Russian Blue
+33,1,85,Siamese
+10,1,86,British Shorthair
+1,1,87,Abyssinian
+4,2,88,basset hound
+28,1,89,Russian Blue
+2,2,90,american bulldog
+17,2,91,havanese
+25,2,92,pomeranian
+20,2,93,leonberger
+33,1,94,Siamese
+35,2,95,staffordshire bull terrier
+12,1,96,Egyptian Mau
+10,1,97,British Shorthair
+29,2,98,saint bernard
+34,1,99,Sphynx
+22,2,100,miniature pinscher
+7,1,101,Birman
+6,1,102,Bengal
+18,2,103,japanese chin
+24,1,104,Persian
+24,1,105,Persian
+16,2,106,great pyrenees
+19,2,107,keeshond
+1,1,108,Abyssinian
+11,2,109,chihuahua
+11,2,110,chihuahua
+30,2,111,samoyed
+25,2,112,pomeranian
+10,1,113,British Shorthair
+7,1,114,Birman
+35,2,115,staffordshire bull terrier
+22,2,116,miniature pinscher
+6,1,117,Bengal
+36,2,118,wheaten terrier
+20,2,119,leonberger
+26,2,120,pug
+26,2,121,pug
+28,1,122,Russian Blue
+14,2,123,english setter
+1,1,124,Abyssinian
+13,2,125,english cocker spaniel
+20,2,126,leonberger
+25,2,127,pomeranian
+31,2,128,scottish terrier
+22,2,129,miniature pinscher
+20,2,130,leonberger
+33,1,131,Siamese
+15,2,132,german shorthaired
+8,1,133,Bombay
+16,2,134,great pyrenees
+10,1,135,British Shorthair
+29,2,136,saint bernard
+36,2,137,wheaten terrier
+16,2,138,great pyrenees
+21,1,139,Maine Coon
+32,2,140,shiba inu
+29,2,141,saint bernard
+15,2,142,german shorthaired
+10,1,143,British Shorthair
+35,2,144,staffordshire bull terrier
+28,1,145,Russian Blue
+4,2,146,basset hound
+33,1,147,Siamese
+3,2,148,american pit bull terrier
+33,1,149,Siamese
+26,2,150,pug
+7,1,151,Birman
+2,2,152,american bulldog
+22,2,153,miniature pinscher
+8,1,154,Bombay
+6,1,155,Bengal
+17,2,156,havanese
+19,2,157,keeshond
+25,2,158,pomeranian
+18,2,159,japanese chin
+25,2,160,pomeranian
+10,1,161,British Shorthair
+4,2,162,basset hound
+8,1,163,Bombay
+23,2,164,newfoundland
+34,1,165,Sphynx
+18,2,166,japanese chin
+17,2,167,havanese
+23,2,168,newfoundland
+25,2,169,pomeranian
+18,2,170,japanese chin
+8,1,171,Bombay
+25,2,172,pomeranian
+9,2,173,boxer
+3,2,174,american pit bull terrier
+32,2,175,shiba inu
+23,2,176,newfoundland
+30,2,177,samoyed
+5,2,178,beagle
+34,1,179,Sphynx
+23,2,180,newfoundland
+20,2,181,leonberger
+31,2,182,scottish terrier
+6,1,183,Bengal
+15,2,184,german shorthaired
+33,1,185,Siamese
+6,1,186,Bengal
+29,2,187,saint bernard
+11,2,188,chihuahua
+6,1,189,Bengal
+25,2,190,pomeranian
+11,2,191,chihuahua
+17,2,192,havanese
+35,2,193,staffordshire bull terrier
+33,1,194,Siamese
+7,1,195,Birman
+1,1,196,Abyssinian
+29,2,197,saint bernard
+14,2,198,english setter
+11,2,199,chihuahua
+17,2,200,havanese
+34,1,201,Sphynx
+25,2,202,pomeranian
+24,1,203,Persian
+26,2,204,pug
+33,1,205,Siamese
+32,2,206,shiba inu
+13,2,207,english cocker spaniel
+23,2,208,newfoundland
+6,1,209,Bengal
+31,2,210,scottish terrier
+15,2,211,german shorthaired
+19,2,212,keeshond
+29,2,213,saint bernard
+15,2,214,german shorthaired
+36,2,215,wheaten terrier
+9,2,216,boxer
+21,1,217,Maine Coon
+13,2,218,english cocker spaniel
+13,2,219,english cocker spaniel
+21,1,220,Maine Coon
+18,2,221,japanese chin
+22,2,222,miniature pinscher
+18,2,223,japanese chin
+4,2,224,basset hound
+5,2,225,beagle
+2,2,226,american bulldog
+33,1,227,Siamese
+22,2,228,miniature pinscher
+20,2,229,leonberger
+3,2,230,american pit bull terrier
+15,2,231,german shorthaired
+14,2,232,english setter
+8,1,233,Bombay
+12,1,234,Egyptian Mau
+15,2,235,german shorthaired
+19,2,236,keeshond
+21,1,237,Maine Coon
+12,1,238,Egyptian Mau
+21,1,239,Maine Coon
+31,2,240,scottish terrier
+23,2,241,newfoundland
+2,2,242,american bulldog
+20,2,243,leonberger
+16,2,244,great pyrenees
+4,2,245,basset hound
+27,1,246,Ragdoll
+32,2,247,shiba inu
+36,2,248,wheaten terrier
+36,2,249,wheaten terrier
+36,2,250,wheaten terrier
+25,2,251,pomeranian
+24,1,252,Persian
+10,1,253,British Shorthair
+24,1,254,Persian
+25,2,255,pomeranian
+3,2,256,american pit bull terrier
+22,2,257,miniature pinscher
+30,2,258,samoyed
+5,2,259,beagle
+12,1,260,Egyptian Mau
+30,2,261,samoyed
+30,2,262,samoyed
+25,2,263,pomeranian
+21,1,264,Maine Coon
+21,1,265,Maine Coon
+30,2,266,samoyed
+17,2,267,havanese
+34,1,268,Sphynx
+13,2,269,english cocker spaniel
+28,1,270,Russian Blue
+5,2,271,beagle
+13,2,272,english cocker spaniel
+15,2,273,german shorthaired
+6,1,274,Bengal
+22,2,275,miniature pinscher
+22,2,276,miniature pinscher
+1,1,277,Abyssinian
+23,2,278,newfoundland
+20,2,279,leonberger
+32,2,280,shiba inu
+32,2,281,shiba inu
+37,2,282,yorkshire terrier
+8,1,283,Bombay
+23,2,284,newfoundland
+8,1,285,Bombay
+14,2,286,english setter
+37,2,287,yorkshire terrier
+8,1,288,Bombay
+36,2,289,wheaten terrier
+8,1,290,Bombay
+20,2,291,leonberger
+34,1,292,Sphynx
+24,1,293,Persian
+37,2,294,yorkshire terrier
+36,2,295,wheaten terrier
+16,2,296,great pyrenees
+7,1,297,Birman
+10,1,298,British Shorthair
+5,2,299,beagle
+27,1,300,Ragdoll
+22,2,301,miniature pinscher
+22,2,302,miniature pinscher
+37,2,303,yorkshire terrier
+34,1,304,Sphynx
+13,2,305,english cocker spaniel
+11,2,306,chihuahua
+9,2,307,boxer
+4,2,308,basset hound
+35,2,309,staffordshire bull terrier
+36,2,310,wheaten terrier
+16,2,311,great pyrenees
+11,2,312,chihuahua
+13,2,313,english cocker spaniel
+2,2,314,american bulldog
+4,2,315,basset hound
+33,1,316,Siamese
+26,2,317,pug
+22,2,318,miniature pinscher
+19,2,319,keeshond
+14,2,320,english setter
+17,2,321,havanese
+13,2,322,english cocker spaniel
+37,2,323,yorkshire terrier
+28,1,324,Russian Blue
+3,2,325,american pit bull terrier
+14,2,326,english setter
+31,2,327,scottish terrier
+3,2,328,american pit bull terrier
+30,2,329,samoyed
+37,2,330,yorkshire terrier
+1,1,331,Abyssinian
+1,1,332,Abyssinian
+23,2,333,newfoundland
+2,2,334,american bulldog
+7,1,335,Birman
+13,2,336,english cocker spaniel
+1,1,337,Abyssinian
+13,2,338,english cocker spaniel
+37,2,339,yorkshire terrier
+29,2,340,saint bernard
+18,2,341,japanese chin
+37,2,342,yorkshire terrier
+12,1,343,Egyptian Mau
+19,2,344,keeshond
+29,2,345,saint bernard
+2,2,346,american bulldog
+29,2,347,saint bernard
+14,2,348,english setter
+8,1,349,Bombay
+13,2,350,english cocker spaniel
+3,2,351,american pit bull terrier
+26,2,352,pug
+30,2,353,samoyed
+5,2,354,beagle
+22,2,355,miniature pinscher
+17,2,356,havanese
+27,1,357,Ragdoll
+16,2,358,great pyrenees
+33,1,359,Siamese
+30,2,360,samoyed
+24,1,361,Persian
+3,2,362,american pit bull terrier
+29,2,363,saint bernard
+13,2,364,english cocker spaniel
+35,2,365,staffordshire bull terrier
+12,1,366,Egyptian Mau
+19,2,367,keeshond
+4,2,368,basset hound
+7,1,369,Birman
+7,1,370,Birman
+5,2,371,beagle
+7,1,372,Birman
+1,1,373,Abyssinian
+31,2,374,scottish terrier
+28,1,375,Russian Blue
+25,2,376,pomeranian
+9,2,377,boxer
+22,2,378,miniature pinscher
+14,2,379,english setter
+20,2,380,leonberger
+31,2,381,scottish terrier
+27,1,382,Ragdoll
+12,1,383,Egyptian Mau
+30,2,384,samoyed
+7,1,385,Birman
+10,1,386,British Shorthair
+1,1,387,Abyssinian
+36,2,388,wheaten terrier
+23,2,389,newfoundland
+6,1,390,Bengal
+23,2,391,newfoundland
+23,2,392,newfoundland
+1,1,393,Abyssinian
+18,2,394,japanese chin
+21,1,395,Maine Coon
+19,2,396,keeshond
+25,2,397,pomeranian
+9,2,398,boxer
+17,2,399,havanese
+21,1,400,Maine Coon
+32,2,401,shiba inu
+25,2,402,pomeranian
+8,1,403,Bombay
+35,2,404,staffordshire bull terrier
+1,1,405,Abyssinian
+9,2,406,boxer
+21,1,407,Maine Coon
+12,1,408,Egyptian Mau
+26,2,409,pug
+2,2,410,american bulldog
+24,1,411,Persian
+15,2,412,german shorthaired
+21,1,413,Maine Coon
+30,2,414,samoyed
+34,1,415,Sphynx
+31,2,416,scottish terrier
+25,2,417,pomeranian
+22,2,418,miniature pinscher
+34,1,419,Sphynx
+27,1,420,Ragdoll
+13,2,421,english cocker spaniel
+13,2,422,english cocker spaniel
+4,2,423,basset hound
+20,2,424,leonberger
+5,2,425,beagle
+31,2,426,scottish terrier
+5,2,427,beagle
+8,1,428,Bombay
+21,1,429,Maine Coon
+37,2,430,yorkshire terrier
+9,2,431,boxer
+24,1,432,Persian
+8,1,433,Bombay
+4,2,434,basset hound
+17,2,435,havanese
+8,1,436,Bombay
+22,2,437,miniature pinscher
+31,2,438,scottish terrier
+20,2,439,leonberger
+7,1,440,Birman
+6,1,441,Bengal
+27,1,442,Ragdoll
+37,2,443,yorkshire terrier
+31,2,444,scottish terrier
+22,2,445,miniature pinscher
+2,2,446,american bulldog
+6,1,447,Bengal
+3,2,448,american pit bull terrier
+19,2,449,keeshond
+25,2,450,pomeranian
+21,1,451,Maine Coon
+30,2,452,samoyed
+23,2,453,newfoundland
+1,1,454,Abyssinian
+33,1,455,Siamese
+17,2,456,havanese
+8,1,457,Bombay
+28,1,458,Russian Blue
+5,2,459,beagle
+25,2,460,pomeranian
+17,2,461,havanese
+28,1,462,Russian Blue
+24,1,463,Persian
+27,1,464,Ragdoll
+31,2,465,scottish terrier
+19,2,466,keeshond
+12,1,467,Egyptian Mau
+5,2,468,beagle
+37,2,469,yorkshire terrier
+28,1,470,Russian Blue
+2,2,471,american bulldog
+12,1,472,Egyptian Mau
+30,2,473,samoyed
+30,2,474,samoyed
+13,2,475,english cocker spaniel
+37,2,476,yorkshire terrier
+1,1,477,Abyssinian
+29,2,478,saint bernard
+29,2,479,saint bernard
+9,2,480,boxer
+5,2,481,beagle
+23,2,482,newfoundland
+31,2,483,scottish terrier
+2,2,484,american bulldog
+20,2,485,leonberger
+33,1,486,Siamese
+29,2,487,saint bernard
+30,2,488,samoyed
+5,2,489,beagle
+8,1,490,Bombay
+27,1,491,Ragdoll
+28,1,492,Russian Blue
+5,2,493,beagle
+11,2,494,chihuahua
+24,1,495,Persian
+2,2,496,american bulldog
+28,1,497,Russian Blue
+17,2,498,havanese
+5,2,499,beagle
+34,1,500,Sphynx
+1,1,501,Abyssinian
+24,1,502,Persian
+15,2,503,german shorthaired
+14,2,504,english setter
+9,2,505,boxer
+19,2,506,keeshond
+14,2,507,english setter
+28,1,508,Russian Blue
+7,1,509,Birman
+34,1,510,Sphynx
+9,2,511,boxer
+16,2,512,great pyrenees
+21,1,513,Maine Coon
+27,1,514,Ragdoll
+16,2,515,great pyrenees
+16,2,516,great pyrenees
+11,2,517,chihuahua
+9,2,518,boxer
+23,2,519,newfoundland
+36,2,520,wheaten terrier
+27,1,521,Ragdoll
+4,2,522,basset hound
+22,2,523,miniature pinscher
+2,2,524,american bulldog
+29,2,525,saint bernard
+34,1,526,Sphynx
+13,2,527,english cocker spaniel
+8,1,528,Bombay
+14,2,529,english setter
+35,2,530,staffordshire bull terrier
+25,2,531,pomeranian
+1,1,532,Abyssinian
+34,1,533,Sphynx
+16,2,534,great pyrenees
+16,2,535,great pyrenees
+9,2,536,boxer
+6,1,537,Bengal
+15,2,538,german shorthaired
+6,1,539,Bengal
+19,2,540,keeshond
+21,1,541,Maine Coon
+35,2,542,staffordshire bull terrier
+29,2,543,saint bernard
+15,2,544,german shorthaired
+2,2,545,american bulldog
+16,2,546,great pyrenees
+32,2,547,shiba inu
+22,2,548,miniature pinscher
+5,2,549,beagle
+18,2,550,japanese chin
+17,2,551,havanese
+30,2,552,samoyed
+20,2,553,leonberger
+12,1,554,Egyptian Mau
+23,2,555,newfoundland
+37,2,556,yorkshire terrier
+20,2,557,leonberger
+24,1,558,Persian
+4,2,559,basset hound
+25,2,560,pomeranian
+22,2,561,miniature pinscher
+30,2,562,samoyed
+31,2,563,scottish terrier
+13,2,564,english cocker spaniel
+26,2,565,pug
+18,2,566,japanese chin
+28,1,567,Russian Blue
+36,2,568,wheaten terrier
+35,2,569,staffordshire bull terrier
+10,1,570,British Shorthair
+7,1,571,Birman
+10,1,572,British Shorthair
+10,1,573,British Shorthair
+11,2,574,chihuahua
+28,1,575,Russian Blue
+33,1,576,Siamese
+1,1,577,Abyssinian
+15,2,578,german shorthaired
+26,2,579,pug
+31,2,580,scottish terrier
+31,2,581,scottish terrier
+13,2,582,english cocker spaniel
+19,2,583,keeshond
+6,1,584,Bengal
+30,2,585,samoyed
+22,2,586,miniature pinscher
+2,2,587,american bulldog
+22,2,588,miniature pinscher
+14,2,589,english setter
+3,2,590,american pit bull terrier
+26,2,591,pug
+17,2,592,havanese
+33,1,593,Siamese
+35,2,594,staffordshire bull terrier
+10,1,595,British Shorthair
+30,2,596,samoyed
+15,2,597,german shorthaired
+36,2,598,wheaten terrier
+32,2,599,shiba inu
+36,2,600,wheaten terrier
+26,2,601,pug
+35,2,602,staffordshire bull terrier
+33,1,603,Siamese
+28,1,604,Russian Blue
+20,2,605,leonberger
+5,2,606,beagle
+3,2,607,american pit bull terrier
+32,2,608,shiba inu
+7,1,609,Birman
+3,2,610,american pit bull terrier
+15,2,611,german shorthaired
+16,2,612,great pyrenees
+6,1,613,Bengal
+30,2,614,samoyed
+26,2,615,pug
+9,2,616,boxer
+3,2,617,american pit bull terrier
+1,1,618,Abyssinian
+23,2,619,newfoundland
+35,2,620,staffordshire bull terrier
+36,2,621,wheaten terrier
+6,1,622,Bengal
+15,2,623,german shorthaired
+7,1,624,Birman
+28,1,625,Russian Blue
+2,2,626,american bulldog
+24,1,627,Persian
+10,1,628,British Shorthair
+12,1,629,Egyptian Mau
+28,1,630,Russian Blue
+14,2,631,english setter
+25,2,632,pomeranian
+24,1,633,Persian
+20,2,634,leonberger
+21,1,635,Maine Coon
+6,1,636,Bengal
+26,2,637,pug
+28,1,638,Russian Blue
+20,2,639,leonberger
+9,2,640,boxer
+34,1,641,Sphynx
+34,1,642,Sphynx
+10,1,643,British Shorthair
+25,2,644,pomeranian
+27,1,645,Ragdoll
+32,2,646,shiba inu
+9,2,647,boxer
+16,2,648,great pyrenees
+28,1,649,Russian Blue
+12,1,650,Egyptian Mau
+24,1,651,Persian
+3,2,652,american pit bull terrier
+28,1,653,Russian Blue
+4,2,654,basset hound
+25,2,655,pomeranian
+11,2,656,chihuahua
+32,2,657,shiba inu
+16,2,658,great pyrenees
+34,1,659,Sphynx
+36,2,660,wheaten terrier
+22,2,661,miniature pinscher
+7,1,662,Birman
+16,2,663,great pyrenees
+15,2,664,german shorthaired
+21,1,665,Maine Coon
+23,2,666,newfoundland
+9,2,667,boxer
+4,2,668,basset hound
+25,2,669,pomeranian
+32,2,670,shiba inu
+32,2,671,shiba inu
+28,1,672,Russian Blue
+15,2,673,german shorthaired
+31,2,674,scottish terrier
+16,2,675,great pyrenees
+18,2,676,japanese chin
+22,2,677,miniature pinscher
+33,1,678,Siamese
+9,2,679,boxer
+19,2,680,keeshond
+23,2,681,newfoundland
+21,1,682,Maine Coon
+35,2,683,staffordshire bull terrier
+28,1,684,Russian Blue
+24,1,685,Persian
+36,2,686,wheaten terrier
+25,2,687,pomeranian
+8,1,688,Bombay
+27,1,689,Ragdoll
+34,1,690,Sphynx
+17,2,691,havanese
+7,1,692,Birman
+4,2,693,basset hound
+5,2,694,beagle
+12,1,695,Egyptian Mau
+17,2,696,havanese
+20,2,697,leonberger
+33,1,698,Siamese
+34,1,699,Sphynx
+5,2,700,beagle
+29,2,701,saint bernard
+21,1,702,Maine Coon
+27,1,703,Ragdoll
+25,2,704,pomeranian
+35,2,705,staffordshire bull terrier
+3,2,706,american pit bull terrier
+31,2,707,scottish terrier
+22,2,708,miniature pinscher
+13,2,709,english cocker spaniel
+28,1,710,Russian Blue
+26,2,711,pug
+34,1,712,Sphynx
+16,2,713,great pyrenees
+1,1,714,Abyssinian
+4,2,715,basset hound
+21,1,716,Maine Coon
+7,1,717,Birman
+26,2,718,pug
+13,2,719,english cocker spaniel
+18,2,720,japanese chin
+18,2,721,japanese chin
+23,2,722,newfoundland
+25,2,723,pomeranian
+19,2,724,keeshond
+37,2,725,yorkshire terrier
+5,2,726,beagle
+30,2,727,samoyed
+33,1,728,Siamese
+35,2,729,staffordshire bull terrier
+8,1,730,Bombay
+21,1,731,Maine Coon
+11,2,732,chihuahua
+36,2,733,wheaten terrier
+19,2,734,keeshond
+31,2,735,scottish terrier
+26,2,736,pug
+27,1,737,Ragdoll
+6,1,738,Bengal
+36,2,739,wheaten terrier
+14,2,740,english setter
+7,1,741,Birman
+11,2,742,chihuahua
+5,2,743,beagle
+36,2,744,wheaten terrier
+36,2,745,wheaten terrier
+19,2,746,keeshond
+15,2,747,german shorthaired
+6,1,748,Bengal
+26,2,749,pug
+2,2,750,american bulldog
+23,2,751,newfoundland
+24,1,752,Persian
+37,2,753,yorkshire terrier
+37,2,754,yorkshire terrier
+19,2,755,keeshond
+36,2,756,wheaten terrier
+2,2,757,american bulldog
+5,2,758,beagle
+19,2,759,keeshond
+33,1,760,Siamese
+17,2,761,havanese
+25,2,762,pomeranian
+21,1,763,Maine Coon
+32,2,764,shiba inu
+1,1,765,Abyssinian
+34,1,766,Sphynx
+30,2,767,samoyed
+34,1,768,Sphynx
+25,2,769,pomeranian
+16,2,770,great pyrenees
+31,2,771,scottish terrier
+26,2,772,pug
+16,2,773,great pyrenees
+29,2,774,saint bernard
+26,2,775,pug
+2,2,776,american bulldog
+37,2,777,yorkshire terrier
+19,2,778,keeshond
+27,1,779,Ragdoll
+28,1,780,Russian Blue
+2,2,781,american bulldog
+23,2,782,newfoundland
+20,2,783,leonberger
+18,2,784,japanese chin
+18,2,785,japanese chin
+9,2,786,boxer
+6,1,787,Bengal
+24,1,788,Persian
+4,2,789,basset hound
+19,2,790,keeshond
+27,1,791,Ragdoll
+29,2,792,saint bernard
+22,2,793,miniature pinscher
+7,1,794,Birman
+20,2,795,leonberger
+24,1,796,Persian
+8,1,797,Bombay
+6,1,798,Bengal
+6,1,799,Bengal
+29,2,800,saint bernard
+32,2,801,shiba inu
+3,2,802,american pit bull terrier
+12,1,803,Egyptian Mau
+33,1,804,Siamese
+25,2,805,pomeranian
+2,2,806,american bulldog
+13,2,807,english cocker spaniel
+11,2,808,chihuahua
+14,2,809,english setter
+5,2,810,beagle
+14,2,811,english setter
+1,1,812,Abyssinian
+19,2,813,keeshond
+25,2,814,pomeranian
+3,2,815,american pit bull terrier
+19,2,816,keeshond
+34,1,817,Sphynx
+12,1,818,Egyptian Mau
+25,2,819,pomeranian
+21,1,820,Maine Coon
+30,2,821,samoyed
+29,2,822,saint bernard
+1,1,823,Abyssinian
+12,1,824,Egyptian Mau
+12,1,825,Egyptian Mau
+34,1,826,Sphynx
+1,1,827,Abyssinian
+1,1,828,Abyssinian
+2,2,829,american bulldog
+25,2,830,pomeranian
+32,2,831,shiba inu
+33,1,832,Siamese
+24,1,833,Persian
+15,2,834,german shorthaired
+35,2,835,staffordshire bull terrier
+35,2,836,staffordshire bull terrier
+11,2,837,chihuahua
+32,2,838,shiba inu
+32,2,839,shiba inu
+11,2,840,chihuahua
+8,1,841,Bombay
+12,1,842,Egyptian Mau
+11,2,843,chihuahua
+18,2,844,japanese chin
+17,2,845,havanese
+33,1,846,Siamese
+6,1,847,Bengal
+11,2,848,chihuahua
+34,1,849,Sphynx
+7,1,850,Birman
+12,1,851,Egyptian Mau
+37,2,852,yorkshire terrier
+3,2,853,american pit bull terrier
+4,2,854,basset hound
+21,1,855,Maine Coon
+11,2,856,chihuahua
+1,1,857,Abyssinian
+1,1,858,Abyssinian
+33,1,859,Siamese
+5,2,860,beagle
+21,1,861,Maine Coon
+19,2,862,keeshond
+24,1,863,Persian
+36,2,864,wheaten terrier
+34,1,865,Sphynx
+13,2,866,english cocker spaniel
+1,1,867,Abyssinian
+24,1,868,Persian
+15,2,869,german shorthaired
+1,1,870,Abyssinian
+20,2,871,leonberger
+27,1,872,Ragdoll
+21,1,873,Maine Coon
+13,2,874,english cocker spaniel
+14,2,875,english setter
+36,2,876,wheaten terrier
+16,2,877,great pyrenees
+21,1,878,Maine Coon
+12,1,879,Egyptian Mau
+24,1,880,Persian
+35,2,881,staffordshire bull terrier
+30,2,882,samoyed
+10,1,883,British Shorthair
+18,2,884,japanese chin
+10,1,885,British Shorthair
+36,2,886,wheaten terrier
+32,2,887,shiba inu
+26,2,888,pug
+21,1,889,Maine Coon
+30,2,890,samoyed
+21,1,891,Maine Coon
+1,1,892,Abyssinian
+34,1,893,Sphynx
+28,1,894,Russian Blue
+12,1,895,Egyptian Mau
+37,2,896,yorkshire terrier
+11,2,897,chihuahua
+16,2,898,great pyrenees
+31,2,899,scottish terrier
+12,1,900,Egyptian Mau
+20,2,901,leonberger
+12,1,902,Egyptian Mau
+1,1,903,Abyssinian
+14,2,904,english setter
+35,2,905,staffordshire bull terrier
+14,2,906,english setter
+34,1,907,Sphynx
+5,2,908,beagle
+16,2,909,great pyrenees
+34,1,910,Sphynx
+22,2,911,miniature pinscher
+28,1,912,Russian Blue
+7,1,913,Birman
+11,2,914,chihuahua
+19,2,915,keeshond
+35,2,916,staffordshire bull terrier
+3,2,917,american pit bull terrier
+5,2,918,beagle
+18,2,919,japanese chin
+11,2,920,chihuahua
+24,1,921,Persian
+2,2,922,american bulldog
+12,1,923,Egyptian Mau
+25,2,924,pomeranian
+19,2,925,keeshond
+19,2,926,keeshond
+20,2,927,leonberger
+17,2,928,havanese
+17,2,929,havanese
+27,1,930,Ragdoll
+35,2,931,staffordshire bull terrier
+10,1,932,British Shorthair
+13,2,933,english cocker spaniel
+23,2,934,newfoundland
+2,2,935,american bulldog
+9,2,936,boxer
+37,2,937,yorkshire terrier
+30,2,938,samoyed
+31,2,939,scottish terrier
+7,1,940,Birman
+17,2,941,havanese
+1,1,942,Abyssinian
+10,1,943,British Shorthair
+23,2,944,newfoundland
+25,2,945,pomeranian
+29,2,946,saint bernard
+16,2,947,great pyrenees
+7,1,948,Birman
+37,2,949,yorkshire terrier
+29,2,950,saint bernard
+3,2,951,american pit bull terrier
+16,2,952,great pyrenees
+4,2,953,basset hound
+5,2,954,beagle
+36,2,955,wheaten terrier
+16,2,956,great pyrenees
+18,2,957,japanese chin
+23,2,958,newfoundland
+9,2,959,boxer
+30,2,960,samoyed
+6,1,961,Bengal
+14,2,962,english setter
+28,1,963,Russian Blue
+3,2,964,american pit bull terrier
+7,1,965,Birman
+12,1,966,Egyptian Mau
+21,1,967,Maine Coon
+32,2,968,shiba inu
+15,2,969,german shorthaired
+11,2,970,chihuahua
+9,2,971,boxer
+9,2,972,boxer
+34,1,973,Sphynx
+13,2,974,english cocker spaniel
+31,2,975,scottish terrier
+9,2,976,boxer
+1,1,977,Abyssinian
+14,2,978,english setter
+1,1,979,Abyssinian
+21,1,980,Maine Coon
+6,1,981,Bengal
+24,1,982,Persian
+27,1,983,Ragdoll
+26,2,984,pug
+22,2,985,miniature pinscher
+15,2,986,german shorthaired
+17,2,987,havanese
+21,1,988,Maine Coon
+21,1,989,Maine Coon
+36,2,990,wheaten terrier
+9,2,991,boxer
+30,2,992,samoyed
+8,1,993,Bombay
+32,2,994,shiba inu
+23,2,995,newfoundland
+35,2,996,staffordshire bull terrier
+30,2,997,samoyed
+28,1,998,Russian Blue
+4,2,999,basset hound
+34,1,1000,Sphynx
+20,2,1001,leonberger
+9,2,1002,boxer
+9,2,1003,boxer
+35,2,1004,staffordshire bull terrier
+21,1,1005,Maine Coon
+21,1,1006,Maine Coon
+12,1,1007,Egyptian Mau
+26,2,1008,pug
+32,2,1009,shiba inu
+30,2,1010,samoyed
+22,2,1011,miniature pinscher
+4,2,1012,basset hound
+15,2,1013,german shorthaired
+26,2,1014,pug
+20,2,1015,leonberger
+29,2,1016,saint bernard
+7,1,1017,Birman
+14,2,1018,english setter
+23,2,1019,newfoundland
+32,2,1020,shiba inu
+4,2,1021,basset hound
+7,1,1022,Birman
+2,2,1023,american bulldog
+4,2,1024,basset hound
+24,1,1025,Persian
+34,1,1026,Sphynx
+24,1,1027,Persian
+27,1,1028,Ragdoll
+25,2,1029,pomeranian
+29,2,1030,saint bernard
+23,2,1031,newfoundland
+29,2,1032,saint bernard
+22,2,1033,miniature pinscher
+26,2,1034,pug
+26,2,1035,pug
+28,1,1036,Russian Blue
+36,2,1037,wheaten terrier
+26,2,1038,pug
+27,1,1039,Ragdoll
+24,1,1040,Persian
+8,1,1041,Bombay
+31,2,1042,scottish terrier
+4,2,1043,basset hound
+12,1,1044,Egyptian Mau
+26,2,1045,pug
+11,2,1046,chihuahua
+36,2,1047,wheaten terrier
+15,2,1048,german shorthaired
+6,1,1049,Bengal
+3,2,1050,american pit bull terrier
+37,2,1051,yorkshire terrier
+11,2,1052,chihuahua
+7,1,1053,Birman
+33,1,1054,Siamese
+11,2,1055,chihuahua
+4,2,1056,basset hound
+29,2,1057,saint bernard
+32,2,1058,shiba inu
+7,1,1059,Birman
+7,1,1060,Birman
+21,1,1061,Maine Coon
+5,2,1062,beagle
+13,2,1063,english cocker spaniel
+34,1,1064,Sphynx
+20,2,1065,leonberger
+2,2,1066,american bulldog
+2,2,1067,american bulldog
+10,1,1068,British Shorthair
+27,1,1069,Ragdoll
+8,1,1070,Bombay
+25,2,1071,pomeranian
+25,2,1072,pomeranian
+11,2,1073,chihuahua
+25,2,1074,pomeranian
+26,2,1075,pug
+5,2,1076,beagle
+28,1,1077,Russian Blue
+15,2,1078,german shorthaired
+12,1,1079,Egyptian Mau
+27,1,1080,Ragdoll
+31,2,1081,scottish terrier
+33,1,1082,Siamese
+16,2,1083,great pyrenees
+10,1,1084,British Shorthair
+22,2,1085,miniature pinscher
+6,1,1086,Bengal
+28,1,1087,Russian Blue
+10,1,1088,British Shorthair
+13,2,1089,english cocker spaniel
+3,2,1090,american pit bull terrier
+26,2,1091,pug
+27,1,1092,Ragdoll
+14,2,1093,english setter
+26,2,1094,pug
+17,2,1095,havanese
+20,2,1096,leonberger
+10,1,1097,British Shorthair
+29,2,1098,saint bernard
+14,2,1099,english setter
+21,1,1100,Maine Coon
+33,1,1101,Siamese
+3,2,1102,american pit bull terrier
+17,2,1103,havanese
+24,1,1104,Persian
+18,2,1105,japanese chin
+10,1,1106,British Shorthair
+19,2,1107,keeshond
+13,2,1108,english cocker spaniel
+25,2,1109,pomeranian
+7,1,1110,Birman
+10,1,1111,British Shorthair
+23,2,1112,newfoundland
+27,1,1113,Ragdoll
+36,2,1114,wheaten terrier
+19,2,1115,keeshond
+36,2,1116,wheaten terrier
+24,1,1117,Persian
+20,2,1118,leonberger
+37,2,1119,yorkshire terrier
+35,2,1120,staffordshire bull terrier
+6,1,1121,Bengal
+26,2,1122,pug
+31,2,1123,scottish terrier
+11,2,1124,chihuahua
+3,2,1125,american pit bull terrier
+36,2,1126,wheaten terrier
+32,2,1127,shiba inu
+14,2,1128,english setter
+29,2,1129,saint bernard
+36,2,1130,wheaten terrier
+5,2,1131,beagle
+34,1,1132,Sphynx
+5,2,1133,beagle
+8,1,1134,Bombay
+26,2,1135,pug
+21,1,1136,Maine Coon
+23,2,1137,newfoundland
+16,2,1138,great pyrenees
+31,2,1139,scottish terrier
+5,2,1140,beagle
+10,1,1141,British Shorthair
+22,2,1142,miniature pinscher
+21,1,1143,Maine Coon
+26,2,1144,pug
+2,2,1145,american bulldog
+20,2,1146,leonberger
+31,2,1147,scottish terrier
+33,1,1148,Siamese
+21,1,1149,Maine Coon
+23,2,1150,newfoundland
+8,1,1151,Bombay
+4,2,1152,basset hound
+21,1,1153,Maine Coon
+6,1,1154,Bengal
+34,1,1155,Sphynx
+36,2,1156,wheaten terrier
+21,1,1157,Maine Coon
+2,2,1158,american bulldog
+35,2,1159,staffordshire bull terrier
+2,2,1160,american bulldog
+8,1,1161,Bombay
+9,2,1162,boxer
+36,2,1163,wheaten terrier
+8,1,1164,Bombay
+11,2,1165,chihuahua
+2,2,1166,american bulldog
+3,2,1167,american pit bull terrier
+19,2,1168,keeshond
+15,2,1169,german shorthaired
+14,2,1170,english setter
+19,2,1171,keeshond
+5,2,1172,beagle
+10,1,1173,British Shorthair
+29,2,1174,saint bernard
+37,2,1175,yorkshire terrier
+26,2,1176,pug
+4,2,1177,basset hound
+22,2,1178,miniature pinscher
+11,2,1179,chihuahua
+22,2,1180,miniature pinscher
+28,1,1181,Russian Blue
+6,1,1182,Bengal
+37,2,1183,yorkshire terrier
+11,2,1184,chihuahua
+6,1,1185,Bengal
+19,2,1186,keeshond
+36,2,1187,wheaten terrier
+20,2,1188,leonberger
+22,2,1189,miniature pinscher
+27,1,1190,Ragdoll
+20,2,1191,leonberger
+10,1,1192,British Shorthair
+9,2,1193,boxer
+27,1,1194,Ragdoll
+19,2,1195,keeshond
+10,1,1196,British Shorthair
+2,2,1197,american bulldog
+9,2,1198,boxer
+36,2,1199,wheaten terrier
+8,1,1200,Bombay
+23,2,1201,newfoundland
+1,1,1202,Abyssinian
+30,2,1203,samoyed
+36,2,1204,wheaten terrier
+1,1,1205,Abyssinian
+3,2,1206,american pit bull terrier
+28,1,1207,Russian Blue
+36,2,1208,wheaten terrier
+14,2,1209,english setter
+19,2,1210,keeshond
+26,2,1211,pug
+10,1,1212,British Shorthair
+31,2,1213,scottish terrier
+30,2,1214,samoyed
+2,2,1215,american bulldog
+36,2,1216,wheaten terrier
+33,1,1217,Siamese
+23,2,1218,newfoundland
+25,2,1219,pomeranian
+14,2,1220,english setter
+24,1,1221,Persian
+24,1,1222,Persian
+20,2,1223,leonberger
+1,1,1224,Abyssinian
+14,2,1225,english setter
+4,2,1226,basset hound
+20,2,1227,leonberger
+33,1,1228,Siamese
+29,2,1229,saint bernard
+15,2,1230,german shorthaired
+32,2,1231,shiba inu
+34,1,1232,Sphynx
+9,2,1233,boxer
+34,1,1234,Sphynx
+34,1,1235,Sphynx
+15,2,1236,german shorthaired
+20,2,1237,leonberger
+37,2,1238,yorkshire terrier
+14,2,1239,english setter
+20,2,1240,leonberger
+7,1,1241,Birman
+24,1,1242,Persian
+9,2,1243,boxer
+18,2,1244,japanese chin
+21,1,1245,Maine Coon
+31,2,1246,scottish terrier
+27,1,1247,Ragdoll
+11,2,1248,chihuahua
+3,2,1249,american pit bull terrier
+10,1,1250,British Shorthair
+7,1,1251,Birman
+9,2,1252,boxer
+20,2,1253,leonberger
+25,2,1254,pomeranian
+15,2,1255,german shorthaired
+21,1,1256,Maine Coon
+9,2,1257,boxer
+24,1,1258,Persian
+18,2,1259,japanese chin
+30,2,1260,samoyed
+26,2,1261,pug
+17,2,1262,havanese
+28,1,1263,Russian Blue
+29,2,1264,saint bernard
+12,1,1265,Egyptian Mau
+14,2,1266,english setter
+8,1,1267,Bombay
+17,2,1268,havanese
+26,2,1269,pug
+19,2,1270,keeshond
+4,2,1271,basset hound
+20,2,1272,leonberger
+36,2,1273,wheaten terrier
+14,2,1274,english setter
+14,2,1275,english setter
+11,2,1276,chihuahua
+8,1,1277,Bombay
+37,2,1278,yorkshire terrier
+13,2,1279,english cocker spaniel
+1,1,1280,Abyssinian
+11,2,1281,chihuahua
+11,2,1282,chihuahua
+1,1,1283,Abyssinian
+6,1,1284,Bengal
+1,1,1285,Abyssinian
+36,2,1286,wheaten terrier
+18,2,1287,japanese chin
+2,2,1288,american bulldog
+8,1,1289,Bombay
+9,2,1290,boxer
+35,2,1291,staffordshire bull terrier
+33,1,1292,Siamese
+10,1,1293,British Shorthair
+29,2,1294,saint bernard
+36,2,1295,wheaten terrier
+25,2,1296,pomeranian
+29,2,1297,saint bernard
+30,2,1298,samoyed
+6,1,1299,Bengal
+2,2,1300,american bulldog
+11,2,1301,chihuahua
+32,2,1302,shiba inu
+28,1,1303,Russian Blue
+18,2,1304,japanese chin
+25,2,1305,pomeranian
+14,2,1306,english setter
+30,2,1307,samoyed
+36,2,1308,wheaten terrier
+7,1,1309,Birman
+9,2,1310,boxer
+2,2,1311,american bulldog
+16,2,1312,great pyrenees
+24,1,1313,Persian
+21,1,1314,Maine Coon
+7,1,1315,Birman
+25,2,1316,pomeranian
+16,2,1317,great pyrenees
+8,1,1318,Bombay
+36,2,1319,wheaten terrier
+26,2,1320,pug
+19,2,1321,keeshond
+28,1,1322,Russian Blue
+35,2,1323,staffordshire bull terrier
+30,2,1324,samoyed
+12,1,1325,Egyptian Mau
+27,1,1326,Ragdoll
+10,1,1327,British Shorthair
+12,1,1328,Egyptian Mau
+27,1,1329,Ragdoll
+35,2,1330,staffordshire bull terrier
+17,2,1331,havanese
+27,1,1332,Ragdoll
+35,2,1333,staffordshire bull terrier
+26,2,1334,pug
+3,2,1335,american pit bull terrier
+9,2,1336,boxer
+23,2,1337,newfoundland
+28,1,1338,Russian Blue
+29,2,1339,saint bernard
+27,1,1340,Ragdoll
+31,2,1341,scottish terrier
+25,2,1342,pomeranian
+5,2,1343,beagle
+15,2,1344,german shorthaired
+11,2,1345,chihuahua
+8,1,1346,Bombay
+36,2,1347,wheaten terrier
+3,2,1348,american pit bull terrier
+31,2,1349,scottish terrier
+29,2,1350,saint bernard
+16,2,1351,great pyrenees
+30,2,1352,samoyed
+7,1,1353,Birman
+5,2,1354,beagle
+35,2,1355,staffordshire bull terrier
+32,2,1356,shiba inu
+20,2,1357,leonberger
+29,2,1358,saint bernard
+10,1,1359,British Shorthair
+22,2,1360,miniature pinscher
+5,2,1361,beagle
+25,2,1362,pomeranian
+1,1,1363,Abyssinian
+10,1,1364,British Shorthair
+4,2,1365,basset hound
+9,2,1366,boxer
+9,2,1367,boxer
+33,1,1368,Siamese
+3,2,1369,american pit bull terrier
+5,2,1370,beagle
+19,2,1371,keeshond
+6,1,1372,Bengal
+20,2,1373,leonberger
+32,2,1374,shiba inu
+13,2,1375,english cocker spaniel
+1,1,1376,Abyssinian
+18,2,1377,japanese chin
+2,2,1378,american bulldog
+19,2,1379,keeshond
+7,1,1380,Birman
+17,2,1381,havanese
+26,2,1382,pug
+25,2,1383,pomeranian
+10,1,1384,British Shorthair
+3,2,1385,american pit bull terrier
+35,2,1386,staffordshire bull terrier
+2,2,1387,american bulldog
+17,2,1388,havanese
+33,1,1389,Siamese
+16,2,1390,great pyrenees
+9,2,1391,boxer
+27,1,1392,Ragdoll
+14,2,1393,english setter
+5,2,1394,beagle
+31,2,1395,scottish terrier
+35,2,1396,staffordshire bull terrier
+16,2,1397,great pyrenees
+17,2,1398,havanese
+7,1,1399,Birman
+25,2,1400,pomeranian
+6,1,1401,Bengal
+35,2,1402,staffordshire bull terrier
+1,1,1403,Abyssinian
+21,1,1404,Maine Coon
+30,2,1405,samoyed
+16,2,1406,great pyrenees
+29,2,1407,saint bernard
+28,1,1408,Russian Blue
+14,2,1409,english setter
+7,1,1410,Birman
+30,2,1411,samoyed
+24,1,1412,Persian
+22,2,1413,miniature pinscher
+29,2,1414,saint bernard
+4,2,1415,basset hound
+22,2,1416,miniature pinscher
+16,2,1417,great pyrenees
+14,2,1418,english setter
+6,1,1419,Bengal
+25,2,1420,pomeranian
+37,2,1421,yorkshire terrier
+26,2,1422,pug
+16,2,1423,great pyrenees
+1,1,1424,Abyssinian
+7,1,1425,Birman
+27,1,1426,Ragdoll
+8,1,1427,Bombay
+24,1,1428,Persian
+14,2,1429,english setter
+8,1,1430,Bombay
+32,2,1431,shiba inu
+17,2,1432,havanese
+32,2,1433,shiba inu
+36,2,1434,wheaten terrier
+20,2,1435,leonberger
+22,2,1436,miniature pinscher
+14,2,1437,english setter
+25,2,1438,pomeranian
+17,2,1439,havanese
+17,2,1440,havanese
+3,2,1441,american pit bull terrier
+37,2,1442,yorkshire terrier
+17,2,1443,havanese
+11,2,1444,chihuahua
+3,2,1445,american pit bull terrier
+18,2,1446,japanese chin
+2,2,1447,american bulldog
+20,2,1448,leonberger
+21,1,1449,Maine Coon
+2,2,1450,american bulldog
+36,2,1451,wheaten terrier
+4,2,1452,basset hound
+21,1,1453,Maine Coon
+17,2,1454,havanese
+5,2,1455,beagle
+18,2,1456,japanese chin
+24,1,1457,Persian
+12,1,1458,Egyptian Mau
+22,2,1459,miniature pinscher
+15,2,1460,german shorthaired
+24,1,1461,Persian
+11,2,1462,chihuahua
+14,2,1463,english setter
+30,2,1464,samoyed
+11,2,1465,chihuahua
+14,2,1466,english setter
+6,1,1467,Bengal
+6,1,1468,Bengal
+30,2,1469,samoyed
+36,2,1470,wheaten terrier
+30,2,1471,samoyed
+4,2,1472,basset hound
+19,2,1473,keeshond
+36,2,1474,wheaten terrier
+37,2,1475,yorkshire terrier
+23,2,1476,newfoundland
+24,1,1477,Persian
+2,2,1478,american bulldog
+3,2,1479,american pit bull terrier
+16,2,1480,great pyrenees
+37,2,1481,yorkshire terrier
+23,2,1482,newfoundland
+3,2,1483,american pit bull terrier
+35,2,1484,staffordshire bull terrier
+1,1,1485,Abyssinian
+3,2,1486,american pit bull terrier
+2,2,1487,american bulldog
+1,1,1488,Abyssinian
+24,1,1489,Persian
+15,2,1490,german shorthaired
+5,2,1491,beagle
+20,2,1492,leonberger
+10,1,1493,British Shorthair
+13,2,1494,english cocker spaniel
+22,2,1495,miniature pinscher
+4,2,1496,basset hound
+7,1,1497,Birman
+30,2,1498,samoyed
+25,2,1499,pomeranian
+15,2,1500,german shorthaired
+7,1,1501,Birman
+1,1,1502,Abyssinian
+14,2,1503,english setter
+19,2,1504,keeshond
+17,2,1505,havanese
+30,2,1506,samoyed
+11,2,1507,chihuahua
+26,2,1508,pug
+31,2,1509,scottish terrier
+9,2,1510,boxer
+14,2,1511,english setter
+18,2,1512,japanese chin
+5,2,1513,beagle
+6,1,1514,Bengal
+30,2,1515,samoyed
+1,1,1516,Abyssinian
+9,2,1517,boxer
+35,2,1518,staffordshire bull terrier
+21,1,1519,Maine Coon
+28,1,1520,Russian Blue
+7,1,1521,Birman
+18,2,1522,japanese chin
+6,1,1523,Bengal
+5,2,1524,beagle
+28,1,1525,Russian Blue
+25,2,1526,pomeranian
+27,1,1527,Ragdoll
+26,2,1528,pug
+14,2,1529,english setter
+16,2,1530,great pyrenees
+9,2,1531,boxer
+15,2,1532,german shorthaired
+7,1,1533,Birman
+36,2,1534,wheaten terrier
+10,1,1535,British Shorthair
+24,1,1536,Persian
+27,1,1537,Ragdoll
+36,2,1538,wheaten terrier
+23,2,1539,newfoundland
+28,1,1540,Russian Blue
+12,1,1541,Egyptian Mau
+26,2,1542,pug
+20,2,1543,leonberger
+28,1,1544,Russian Blue
+9,2,1545,boxer
+18,2,1546,japanese chin
+3,2,1547,american pit bull terrier
+9,2,1548,boxer
+12,1,1549,Egyptian Mau
+9,2,1550,boxer
+18,2,1551,japanese chin
+13,2,1552,english cocker spaniel
+32,2,1553,shiba inu
+35,2,1554,staffordshire bull terrier
+6,1,1555,Bengal
+23,2,1556,newfoundland
+29,2,1557,saint bernard
+33,1,1558,Siamese
+13,2,1559,english cocker spaniel
+9,2,1560,boxer
+13,2,1561,english cocker spaniel
+13,2,1562,english cocker spaniel
+23,2,1563,newfoundland
+1,1,1564,Abyssinian
+15,2,1565,german shorthaired
+36,2,1566,wheaten terrier
+17,2,1567,havanese
+30,2,1568,samoyed
+22,2,1569,miniature pinscher
+34,1,1570,Sphynx
+5,2,1571,beagle
+12,1,1572,Egyptian Mau
+37,2,1573,yorkshire terrier
+19,2,1574,keeshond
+5,2,1575,beagle
+21,1,1576,Maine Coon
+23,2,1577,newfoundland
+27,1,1578,Ragdoll
+14,2,1579,english setter
+33,1,1580,Siamese
+14,2,1581,english setter
+16,2,1582,great pyrenees
+18,2,1583,japanese chin
+5,2,1584,beagle
+28,1,1585,Russian Blue
+27,1,1586,Ragdoll
+33,1,1587,Siamese
+2,2,1588,american bulldog
+19,2,1589,keeshond
+11,2,1590,chihuahua
+22,2,1591,miniature pinscher
+1,1,1592,Abyssinian
+26,2,1593,pug
+32,2,1594,shiba inu
+8,1,1595,Bombay
+18,2,1596,japanese chin
+2,2,1597,american bulldog
+28,1,1598,Russian Blue
+16,2,1599,great pyrenees
+27,1,1600,Ragdoll
+24,1,1601,Persian
+33,1,1602,Siamese
+36,2,1603,wheaten terrier
+26,2,1604,pug
+10,1,1605,British Shorthair
+20,2,1606,leonberger
+22,2,1607,miniature pinscher
+14,2,1608,english setter
+16,2,1609,great pyrenees
+26,2,1610,pug
+24,1,1611,Persian
+1,1,1612,Abyssinian
+28,1,1613,Russian Blue
+34,1,1614,Sphynx
+8,1,1615,Bombay
+18,2,1616,japanese chin
+33,1,1617,Siamese
+15,2,1618,german shorthaired
+33,1,1619,Siamese
+6,1,1620,Bengal
+27,1,1621,Ragdoll
+25,2,1622,pomeranian
+2,2,1623,american bulldog
+6,1,1624,Bengal
+33,1,1625,Siamese
+33,1,1626,Siamese
+4,2,1627,basset hound
+21,1,1628,Maine Coon
+8,1,1629,Bombay
+28,1,1630,Russian Blue
+6,1,1631,Bengal
+2,2,1632,american bulldog
+31,2,1633,scottish terrier
+14,2,1634,english setter
+30,2,1635,samoyed
+26,2,1636,pug
+1,1,1637,Abyssinian
+17,2,1638,havanese
+34,1,1639,Sphynx
+31,2,1640,scottish terrier
+33,1,1641,Siamese
+29,2,1642,saint bernard
+24,1,1643,Persian
+33,1,1644,Siamese
+16,2,1645,great pyrenees
+21,1,1646,Maine Coon
+14,2,1647,english setter
+6,1,1648,Bengal
+17,2,1649,havanese
+12,1,1650,Egyptian Mau
+31,2,1651,scottish terrier
+2,2,1652,american bulldog
+13,2,1653,english cocker spaniel
+33,1,1654,Siamese
+4,2,1655,basset hound
+1,1,1656,Abyssinian
+30,2,1657,samoyed
+2,2,1658,american bulldog
+8,1,1659,Bombay
+3,2,1660,american pit bull terrier
+3,2,1661,american pit bull terrier
+2,2,1662,american bulldog
+27,1,1663,Ragdoll
+7,1,1664,Birman
+37,2,1665,yorkshire terrier
+37,2,1666,yorkshire terrier
+17,2,1667,havanese
+28,1,1668,Russian Blue
+4,2,1669,basset hound
+8,1,1670,Bombay
+21,1,1671,Maine Coon
+22,2,1672,miniature pinscher
+3,2,1673,american pit bull terrier
+26,2,1674,pug
+12,1,1675,Egyptian Mau
+35,2,1676,staffordshire bull terrier
+2,2,1677,american bulldog
+3,2,1678,american pit bull terrier
+19,2,1679,keeshond
+7,1,1680,Birman
+2,2,1681,american bulldog
+3,2,1682,american pit bull terrier
+19,2,1683,keeshond
+2,2,1684,american bulldog
+4,2,1685,basset hound
+26,2,1686,pug
+16,2,1687,great pyrenees
+13,2,1688,english cocker spaniel
+7,1,1689,Birman
+13,2,1690,english cocker spaniel
+3,2,1691,american pit bull terrier
+3,2,1692,american pit bull terrier
+35,2,1693,staffordshire bull terrier
+15,2,1694,german shorthaired
+17,2,1695,havanese
+32,2,1696,shiba inu
+23,2,1697,newfoundland
+10,1,1698,British Shorthair
+37,2,1699,yorkshire terrier
+14,2,1700,english setter
+5,2,1701,beagle
+27,1,1702,Ragdoll
+15,2,1703,german shorthaired
+3,2,1704,american pit bull terrier
+25,2,1705,pomeranian
+34,1,1706,Sphynx
+25,2,1707,pomeranian
+13,2,1708,english cocker spaniel
+36,2,1709,wheaten terrier
+14,2,1710,english setter
+36,2,1711,wheaten terrier
+13,2,1712,english cocker spaniel
+7,1,1713,Birman
+29,2,1714,saint bernard
+29,2,1715,saint bernard
+15,2,1716,german shorthaired
+12,1,1717,Egyptian Mau
+37,2,1718,yorkshire terrier
+23,2,1719,newfoundland
+24,1,1720,Persian
+5,2,1721,beagle
+11,2,1722,chihuahua
+7,1,1723,Birman
+37,2,1724,yorkshire terrier
+37,2,1725,yorkshire terrier
+10,1,1726,British Shorthair
+27,1,1727,Ragdoll
+28,1,1728,Russian Blue
+24,1,1729,Persian
+33,1,1730,Siamese
+17,2,1731,havanese
+29,2,1732,saint bernard
+23,2,1733,newfoundland
+23,2,1734,newfoundland
+18,2,1735,japanese chin
+19,2,1736,keeshond
+10,1,1737,British Shorthair
+3,2,1738,american pit bull terrier
+15,2,1739,german shorthaired
+19,2,1740,keeshond
+37,2,1741,yorkshire terrier
+7,1,1742,Birman
+1,1,1743,Abyssinian
+35,2,1744,staffordshire bull terrier
+24,1,1745,Persian
+15,2,1746,german shorthaired
+25,2,1747,pomeranian
+6,1,1748,Bengal
+12,1,1749,Egyptian Mau
+1,1,1750,Abyssinian
+31,2,1751,scottish terrier
+11,2,1752,chihuahua
+2,2,1753,american bulldog
+19,2,1754,keeshond
+22,2,1755,miniature pinscher
+8,1,1756,Bombay
+30,2,1757,samoyed
+9,2,1758,boxer
+5,2,1759,beagle
+21,1,1760,Maine Coon
+8,1,1761,Bombay
+20,2,1762,leonberger
+32,2,1763,shiba inu
+18,2,1764,japanese chin
+3,2,1765,american pit bull terrier
+19,2,1766,keeshond
+28,1,1767,Russian Blue
+19,2,1768,keeshond
+8,1,1769,Bombay
+12,1,1770,Egyptian Mau
+33,1,1771,Siamese
+30,2,1772,samoyed
+32,2,1773,shiba inu
+14,2,1774,english setter
+27,1,1775,Ragdoll
+32,2,1776,shiba inu
+13,2,1777,english cocker spaniel
+28,1,1778,Russian Blue
+27,1,1779,Ragdoll
+18,2,1780,japanese chin
+12,1,1781,Egyptian Mau
+7,1,1782,Birman
+30,2,1783,samoyed
+11,2,1784,chihuahua
+33,1,1785,Siamese
+30,2,1786,samoyed
+29,2,1787,saint bernard
+16,2,1788,great pyrenees
+8,1,1789,Bombay
+14,2,1790,english setter
+32,2,1791,shiba inu
+10,1,1792,British Shorthair
+37,2,1793,yorkshire terrier
+10,1,1794,British Shorthair
+23,2,1795,newfoundland
+22,2,1796,miniature pinscher
+7,1,1797,Birman
+22,2,1798,miniature pinscher
+33,1,1799,Siamese
+27,1,1800,Ragdoll
+20,2,1801,leonberger
+5,2,1802,beagle
+30,2,1803,samoyed
+15,2,1804,german shorthaired
+2,2,1805,american bulldog
+13,2,1806,english cocker spaniel
+18,2,1807,japanese chin
+12,1,1808,Egyptian Mau
+18,2,1809,japanese chin
+2,2,1810,american bulldog
+27,1,1811,Ragdoll
+34,1,1812,Sphynx
+4,2,1813,basset hound
+20,2,1814,leonberger
+2,2,1815,american bulldog
+7,1,1816,Birman
+13,2,1817,english cocker spaniel
+1,1,1818,Abyssinian
+11,2,1819,chihuahua
+2,2,1820,american bulldog
+2,2,1821,american bulldog
+33,1,1822,Siamese
+19,2,1823,keeshond
+3,2,1824,american pit bull terrier
+4,2,1825,basset hound
+2,2,1826,american bulldog
+2,2,1827,american bulldog
+7,1,1828,Birman
+19,2,1829,keeshond
+7,1,1830,Birman
+29,2,1831,saint bernard
+34,1,1832,Sphynx
+28,1,1833,Russian Blue
+21,1,1834,Maine Coon
+14,2,1835,english setter
+6,1,1836,Bengal
+33,1,1837,Siamese
+6,1,1838,Bengal
+23,2,1839,newfoundland
+27,1,1840,Ragdoll
+10,1,1841,British Shorthair
+37,2,1842,yorkshire terrier
+29,2,1843,saint bernard
+12,1,1844,Egyptian Mau
+31,2,1845,scottish terrier
+25,2,1846,pomeranian
+31,2,1847,scottish terrier
+3,2,1848,american pit bull terrier
+9,2,1849,boxer
+28,1,1850,Russian Blue
+7,1,1851,Birman
+29,2,1852,saint bernard
+7,1,1853,Birman
+13,2,1854,english cocker spaniel
+28,1,1855,Russian Blue
+2,2,1856,american bulldog
+20,2,1857,leonberger
+34,1,1858,Sphynx
+27,1,1859,Ragdoll
+21,1,1860,Maine Coon
+20,2,1861,leonberger
+17,2,1862,havanese
+2,2,1863,american bulldog
+13,2,1864,english cocker spaniel
+1,1,1865,Abyssinian
+17,2,1866,havanese
+34,1,1867,Sphynx
+6,1,1868,Bengal
+1,1,1869,Abyssinian
+27,1,1870,Ragdoll
+32,2,1871,shiba inu
+12,1,1872,Egyptian Mau
+8,1,1873,Bombay
+26,2,1874,pug
+16,2,1875,great pyrenees
+11,2,1876,chihuahua
+29,2,1877,saint bernard
+15,2,1878,german shorthaired
+20,2,1879,leonberger
+36,2,1880,wheaten terrier
+33,1,1881,Siamese
+21,1,1882,Maine Coon
+5,2,1883,beagle
+12,1,1884,Egyptian Mau
+16,2,1885,great pyrenees
+15,2,1886,german shorthaired
+34,1,1887,Sphynx
+32,2,1888,shiba inu
+14,2,1889,english setter
+11,2,1890,chihuahua
+20,2,1891,leonberger
+15,2,1892,german shorthaired
+4,2,1893,basset hound
+30,2,1894,samoyed
+4,2,1895,basset hound
+31,2,1896,scottish terrier
+14,2,1897,english setter
+12,1,1898,Egyptian Mau
+25,2,1899,pomeranian
+27,1,1900,Ragdoll
+16,2,1901,great pyrenees
+34,1,1902,Sphynx
+8,1,1903,Bombay
+25,2,1904,pomeranian
+3,2,1905,american pit bull terrier
+18,2,1906,japanese chin
+33,1,1907,Siamese
+2,2,1908,american bulldog
+33,1,1909,Siamese
+27,1,1910,Ragdoll
+18,2,1911,japanese chin
+22,2,1912,miniature pinscher
+21,1,1913,Maine Coon
+20,2,1914,leonberger
+9,2,1915,boxer
+15,2,1916,german shorthaired
+9,2,1917,boxer
+15,2,1918,german shorthaired
+37,2,1919,yorkshire terrier
+28,1,1920,Russian Blue
+12,1,1921,Egyptian Mau
+14,2,1922,english setter
+5,2,1923,beagle
+26,2,1924,pug
+27,1,1925,Ragdoll
+25,2,1926,pomeranian
+7,1,1927,Birman
+18,2,1928,japanese chin
+32,2,1929,shiba inu
+3,2,1930,american pit bull terrier
+23,2,1931,newfoundland
+24,1,1932,Persian
+1,1,1933,Abyssinian
+5,2,1934,beagle
+31,2,1935,scottish terrier
+27,1,1936,Ragdoll
+34,1,1937,Sphynx
+35,2,1938,staffordshire bull terrier
+25,2,1939,pomeranian
+34,1,1940,Sphynx
+32,2,1941,shiba inu
+11,2,1942,chihuahua
+24,1,1943,Persian
+21,1,1944,Maine Coon
+35,2,1945,staffordshire bull terrier
+18,2,1946,japanese chin
+36,2,1947,wheaten terrier
+29,2,1948,saint bernard
+18,2,1949,japanese chin
+12,1,1950,Egyptian Mau
+30,2,1951,samoyed
+27,1,1952,Ragdoll
+29,2,1953,saint bernard
+26,2,1954,pug
+35,2,1955,staffordshire bull terrier
+18,2,1956,japanese chin
+22,2,1957,miniature pinscher
+23,2,1958,newfoundland
+19,2,1959,keeshond
+35,2,1960,staffordshire bull terrier
+31,2,1961,scottish terrier
+20,2,1962,leonberger
+6,1,1963,Bengal
+22,2,1964,miniature pinscher
+18,2,1965,japanese chin
+6,1,1966,Bengal
+24,1,1967,Persian
+13,2,1968,english cocker spaniel
+13,2,1969,english cocker spaniel
+37,2,1970,yorkshire terrier
+34,1,1971,Sphynx
+3,2,1972,american pit bull terrier
+6,1,1973,Bengal
+26,2,1974,pug
+6,1,1975,Bengal
+4,2,1976,basset hound
+1,1,1977,Abyssinian
+15,2,1978,german shorthaired
+24,1,1979,Persian
+20,2,1980,leonberger
+21,1,1981,Maine Coon
+27,1,1982,Ragdoll
+37,2,1983,yorkshire terrier
+5,2,1984,beagle
+16,2,1985,great pyrenees
+28,1,1986,Russian Blue
+27,1,1987,Ragdoll
+6,1,1988,Bengal
+7,1,1989,Birman
+31,2,1990,scottish terrier
+19,2,1991,keeshond
+23,2,1992,newfoundland
+3,2,1993,american pit bull terrier
+27,1,1994,Ragdoll
+33,1,1995,Siamese
+8,1,1996,Bombay
+11,2,1997,chihuahua
+19,2,1998,keeshond
+30,2,1999,samoyed
+5,2,2000,beagle
+33,1,2001,Siamese
+29,2,2002,saint bernard
+19,2,2003,keeshond
+18,2,2004,japanese chin
+10,1,2005,British Shorthair
+36,2,2006,wheaten terrier
+5,2,2007,beagle
+26,2,2008,pug
+37,2,2009,yorkshire terrier
+28,1,2010,Russian Blue
+12,1,2011,Egyptian Mau
+27,1,2012,Ragdoll
+25,2,2013,pomeranian
+6,1,2014,Bengal
+13,2,2015,english cocker spaniel
+15,2,2016,german shorthaired
+30,2,2017,samoyed
+21,1,2018,Maine Coon
+27,1,2019,Ragdoll
+14,2,2020,english setter
+6,1,2021,Bengal
+19,2,2022,keeshond
+37,2,2023,yorkshire terrier
+1,1,2024,Abyssinian
+33,1,2025,Siamese
+8,1,2026,Bombay
+2,2,2027,american bulldog
+32,2,2028,shiba inu
+17,2,2029,havanese
+12,1,2030,Egyptian Mau
+5,2,2031,beagle
+27,1,2032,Ragdoll
+6,1,2033,Bengal
+4,2,2034,basset hound
+6,1,2035,Bengal
+18,2,2036,japanese chin
+31,2,2037,scottish terrier
+22,2,2038,miniature pinscher
+12,1,2039,Egyptian Mau
+10,1,2040,British Shorthair
+26,2,2041,pug
+29,2,2042,saint bernard
+20,2,2043,leonberger
+14,2,2044,english setter
+18,2,2045,japanese chin
+22,2,2046,miniature pinscher
+34,1,2047,Sphynx
+13,2,2048,english cocker spaniel
+28,1,2049,Russian Blue
+16,2,2050,great pyrenees
+17,2,2051,havanese
+22,2,2052,miniature pinscher
+4,2,2053,basset hound
+2,2,2054,american bulldog
+30,2,2055,samoyed
+17,2,2056,havanese
+11,2,2057,chihuahua
+26,2,2058,pug
+27,1,2059,Ragdoll
+18,2,2060,japanese chin
+34,1,2061,Sphynx
+26,2,2062,pug
+22,2,2063,miniature pinscher
+8,1,2064,Bombay
+5,2,2065,beagle
+23,2,2066,newfoundland
+6,1,2067,Bengal
+13,2,2068,english cocker spaniel
+6,1,2069,Bengal
+23,2,2070,newfoundland
+9,2,2071,boxer
+18,2,2072,japanese chin
+1,1,2073,Abyssinian
+19,2,2074,keeshond
+35,2,2075,staffordshire bull terrier
+15,2,2076,german shorthaired
+32,2,2077,shiba inu
+1,1,2078,Abyssinian
+25,2,2079,pomeranian
+13,2,2080,english cocker spaniel
+10,1,2081,British Shorthair
+18,2,2082,japanese chin
+9,2,2083,boxer
+14,2,2084,english setter
+27,1,2085,Ragdoll
+37,2,2086,yorkshire terrier
+28,1,2087,Russian Blue
+23,2,2088,newfoundland
+4,2,2089,basset hound
+15,2,2090,german shorthaired
+4,2,2091,basset hound
+35,2,2092,staffordshire bull terrier
+20,2,2093,leonberger
+17,2,2094,havanese
+11,2,2095,chihuahua
+30,2,2096,samoyed
+29,2,2097,saint bernard
+31,2,2098,scottish terrier
+35,2,2099,staffordshire bull terrier
+11,2,2100,chihuahua
+28,1,2101,Russian Blue
+10,1,2102,British Shorthair
+6,1,2103,Bengal
+5,2,2104,beagle
+28,1,2105,Russian Blue
+15,2,2106,german shorthaired
+32,2,2107,shiba inu
+18,2,2108,japanese chin
+16,2,2109,great pyrenees
+32,2,2110,shiba inu
+29,2,2111,saint bernard
+27,1,2112,Ragdoll
+17,2,2113,havanese
+16,2,2114,great pyrenees
+34,1,2115,Sphynx
+3,2,2116,american pit bull terrier
+5,2,2117,beagle
+12,1,2118,Egyptian Mau
+9,2,2119,boxer
+32,2,2120,shiba inu
+8,1,2121,Bombay
+15,2,2122,german shorthaired
+18,2,2123,japanese chin
+11,2,2124,chihuahua
+10,1,2125,British Shorthair
+24,1,2126,Persian
+21,1,2127,Maine Coon
+18,2,2128,japanese chin
+3,2,2129,american pit bull terrier
+27,1,2130,Ragdoll
+30,2,2131,samoyed
+12,1,2132,Egyptian Mau
+22,2,2133,miniature pinscher
+35,2,2134,staffordshire bull terrier
+35,2,2135,staffordshire bull terrier
+24,1,2136,Persian
+17,2,2137,havanese
+31,2,2138,scottish terrier
+11,2,2139,chihuahua
+18,2,2140,japanese chin
+5,2,2141,beagle
+6,1,2142,Bengal
+11,2,2143,chihuahua
+35,2,2144,staffordshire bull terrier
+29,2,2145,saint bernard
+17,2,2146,havanese
+24,1,2147,Persian
+33,1,2148,Siamese
+27,1,2149,Ragdoll
+37,2,2150,yorkshire terrier
+32,2,2151,shiba inu
+8,1,2152,Bombay
+25,2,2153,pomeranian
+36,2,2154,wheaten terrier
+33,1,2155,Siamese
+12,1,2156,Egyptian Mau
+19,2,2157,keeshond
+23,2,2158,newfoundland
+32,2,2159,shiba inu
+14,2,2160,english setter
+1,1,2161,Abyssinian
+13,2,2162,english cocker spaniel
+33,1,2163,Siamese
+22,2,2164,miniature pinscher
+26,2,2165,pug
+23,2,2166,newfoundland
+11,2,2167,chihuahua
+3,2,2168,american pit bull terrier
+10,1,2169,British Shorthair
+22,2,2170,miniature pinscher
+18,2,2171,japanese chin
+4,2,2172,basset hound
+33,1,2173,Siamese
+20,2,2174,leonberger
+15,2,2175,german shorthaired
+6,1,2176,Bengal
+29,2,2177,saint bernard
+14,2,2178,english setter
+5,2,2179,beagle
+8,1,2180,Bombay
+14,2,2181,english setter
+22,2,2182,miniature pinscher
+20,2,2183,leonberger
+20,2,2184,leonberger
+33,1,2185,Siamese
+10,1,2186,British Shorthair
+2,2,2187,american bulldog
+2,2,2188,american bulldog
+12,1,2189,Egyptian Mau
+14,2,2190,english setter
+28,1,2191,Russian Blue
+18,2,2192,japanese chin
+10,1,2193,British Shorthair
+6,1,2194,Bengal
+3,2,2195,american pit bull terrier
+29,2,2196,saint bernard
+19,2,2197,keeshond
+26,2,2198,pug
+1,1,2199,Abyssinian
+7,1,2200,Birman
+2,2,2201,american bulldog
+1,1,2202,Abyssinian
+35,2,2203,staffordshire bull terrier
+11,2,2204,chihuahua
+13,2,2205,english cocker spaniel
+31,2,2206,scottish terrier
+31,2,2207,scottish terrier
+34,1,2208,Sphynx
+18,2,2209,japanese chin
+7,1,2210,Birman
+12,1,2211,Egyptian Mau
+1,1,2212,Abyssinian
+30,2,2213,samoyed
+15,2,2214,german shorthaired
+9,2,2215,boxer
+7,1,2216,Birman
+34,1,2217,Sphynx
+14,2,2218,english setter
+20,2,2219,leonberger
+11,2,2220,chihuahua
+19,2,2221,keeshond
+37,2,2222,yorkshire terrier
+30,2,2223,samoyed
+13,2,2224,english cocker spaniel
+34,1,2225,Sphynx
+14,2,2226,english setter
+22,2,2227,miniature pinscher
+23,2,2228,newfoundland
+23,2,2229,newfoundland
+10,1,2230,British Shorthair
+4,2,2231,basset hound
+11,2,2232,chihuahua
+15,2,2233,german shorthaired
+23,2,2234,newfoundland
+36,2,2235,wheaten terrier
+3,2,2236,american pit bull terrier
+11,2,2237,chihuahua
+17,2,2238,havanese
+5,2,2239,beagle
+34,1,2240,Sphynx
+27,1,2241,Ragdoll
+14,2,2242,english setter
+25,2,2243,pomeranian
+26,2,2244,pug
+22,2,2245,miniature pinscher
+12,1,2246,Egyptian Mau
+35,2,2247,staffordshire bull terrier
+7,1,2248,Birman
+17,2,2249,havanese
+13,2,2250,english cocker spaniel
+17,2,2251,havanese
+35,2,2252,staffordshire bull terrier
+10,1,2253,British Shorthair
+36,2,2254,wheaten terrier
+6,1,2255,Bengal
+28,1,2256,Russian Blue
+9,2,2257,boxer
+35,2,2258,staffordshire bull terrier
+12,1,2259,Egyptian Mau
+31,2,2260,scottish terrier
+17,2,2261,havanese
+3,2,2262,american pit bull terrier
+30,2,2263,samoyed
+23,2,2264,newfoundland
+14,2,2265,english setter
+36,2,2266,wheaten terrier
+26,2,2267,pug
+32,2,2268,shiba inu
+9,2,2269,boxer
+4,2,2270,basset hound
+37,2,2271,yorkshire terrier
+3,2,2272,american pit bull terrier
+35,2,2273,staffordshire bull terrier
+24,1,2274,Persian
+35,2,2275,staffordshire bull terrier
+4,2,2276,basset hound
+16,2,2277,great pyrenees
+18,2,2278,japanese chin
+30,2,2279,samoyed
+28,1,2280,Russian Blue
+22,2,2281,miniature pinscher
+25,2,2282,pomeranian
+1,1,2283,Abyssinian
+10,1,2284,British Shorthair
+27,1,2285,Ragdoll
+27,1,2286,Ragdoll
+33,1,2287,Siamese
+1,1,2288,Abyssinian
+5,2,2289,beagle
+7,1,2290,Birman
+5,2,2291,beagle
+24,1,2292,Persian
+32,2,2293,shiba inu
+31,2,2294,scottish terrier
+19,2,2295,keeshond
+37,2,2296,yorkshire terrier
+36,2,2297,wheaten terrier
+14,2,2298,english setter
+34,1,2299,Sphynx
+1,1,2300,Abyssinian
+34,1,2301,Sphynx
+6,1,2302,Bengal
+18,2,2303,japanese chin
+10,1,2304,British Shorthair
+10,1,2305,British Shorthair
+6,1,2306,Bengal
+3,2,2307,american pit bull terrier
+24,1,2308,Persian
+19,2,2309,keeshond
+26,2,2310,pug
+17,2,2311,havanese
+3,2,2312,american pit bull terrier
+4,2,2313,basset hound
+29,2,2314,saint bernard
+22,2,2315,miniature pinscher
+14,2,2316,english setter
+35,2,2317,staffordshire bull terrier
+9,2,2318,boxer
+14,2,2319,english setter
+12,1,2320,Egyptian Mau
+15,2,2321,german shorthaired
+9,2,2322,boxer
+22,2,2323,miniature pinscher
+13,2,2324,english cocker spaniel
+35,2,2325,staffordshire bull terrier
+36,2,2326,wheaten terrier
+12,1,2327,Egyptian Mau
+22,2,2328,miniature pinscher
+15,2,2329,german shorthaired
+19,2,2330,keeshond
+34,1,2331,Sphynx
+7,1,2332,Birman
+26,2,2333,pug
+30,2,2334,samoyed
+34,1,2335,Sphynx
+11,2,2336,chihuahua
+32,2,2337,shiba inu
+24,1,2338,Persian
+9,2,2339,boxer
+21,1,2340,Maine Coon
+23,2,2341,newfoundland
+4,2,2342,basset hound
+32,2,2343,shiba inu
+22,2,2344,miniature pinscher
+26,2,2345,pug
+14,2,2346,english setter
+24,1,2347,Persian
+18,2,2348,japanese chin
+8,1,2349,Bombay
+33,1,2350,Siamese
+8,1,2351,Bombay
+32,2,2352,shiba inu
+31,2,2353,scottish terrier
+12,1,2354,Egyptian Mau
+10,1,2355,British Shorthair
+18,2,2356,japanese chin
+6,1,2357,Bengal
+32,2,2358,shiba inu
+15,2,2359,german shorthaired
+6,1,2360,Bengal
+32,2,2361,shiba inu
+21,1,2362,Maine Coon
+21,1,2363,Maine Coon
+16,2,2364,great pyrenees
+18,2,2365,japanese chin
+22,2,2366,miniature pinscher
+2,2,2367,american bulldog
+12,1,2368,Egyptian Mau
+22,2,2369,miniature pinscher
+23,2,2370,newfoundland
+19,2,2371,keeshond
+37,2,2372,yorkshire terrier
+21,1,2373,Maine Coon
+15,2,2374,german shorthaired
+3,2,2375,american pit bull terrier
+2,2,2376,american bulldog
+17,2,2377,havanese
+28,1,2378,Russian Blue
+28,1,2379,Russian Blue
+12,1,2380,Egyptian Mau
+37,2,2381,yorkshire terrier
+5,2,2382,beagle
+23,2,2383,newfoundland
+22,2,2384,miniature pinscher
+28,1,2385,Russian Blue
+18,2,2386,japanese chin
+6,1,2387,Bengal
+11,2,2388,chihuahua
+15,2,2389,german shorthaired
+15,2,2390,german shorthaired
+33,1,2391,Siamese
+33,1,2392,Siamese
+17,2,2393,havanese
+29,2,2394,saint bernard
+4,2,2395,basset hound
+21,1,2396,Maine Coon
+34,1,2397,Sphynx
+6,1,2398,Bengal
+16,2,2399,great pyrenees
+9,2,2400,boxer
+31,2,2401,scottish terrier
+21,1,2402,Maine Coon
+13,2,2403,english cocker spaniel
+35,2,2404,staffordshire bull terrier
+23,2,2405,newfoundland
+1,1,2406,Abyssinian
+32,2,2407,shiba inu
+21,1,2408,Maine Coon
+13,2,2409,english cocker spaniel
+28,1,2410,Russian Blue
+30,2,2411,samoyed
+35,2,2412,staffordshire bull terrier
+23,2,2413,newfoundland
+1,1,2414,Abyssinian
+27,1,2415,Ragdoll
+22,2,2416,miniature pinscher
+22,2,2417,miniature pinscher
+26,2,2418,pug
+24,1,2419,Persian
+8,1,2420,Bombay
+30,2,2421,samoyed
+9,2,2422,boxer
+37,2,2423,yorkshire terrier
+3,2,2424,american pit bull terrier
+4,2,2425,basset hound
+35,2,2426,staffordshire bull terrier
+13,2,2427,english cocker spaniel
+19,2,2428,keeshond
+7,1,2429,Birman
+34,1,2430,Sphynx
+12,1,2431,Egyptian Mau
+4,2,2432,basset hound
+35,2,2433,staffordshire bull terrier
+36,2,2434,wheaten terrier
+5,2,2435,beagle
+17,2,2436,havanese
+4,2,2437,basset hound
+36,2,2438,wheaten terrier
+28,1,2439,Russian Blue
+35,2,2440,staffordshire bull terrier
+5,2,2441,beagle
+28,1,2442,Russian Blue
+35,2,2443,staffordshire bull terrier
+17,2,2444,havanese
+13,2,2445,english cocker spaniel
+3,2,2446,american pit bull terrier
+10,1,2447,British Shorthair
+28,1,2448,Russian Blue
+1,1,2449,Abyssinian
+11,2,2450,chihuahua
+32,2,2451,shiba inu
+8,1,2452,Bombay
+3,2,2453,american pit bull terrier
+13,2,2454,english cocker spaniel
+23,2,2455,newfoundland
+5,2,2456,beagle
+37,2,2457,yorkshire terrier
+35,2,2458,staffordshire bull terrier
+23,2,2459,newfoundland
+1,1,2460,Abyssinian
+34,1,2461,Sphynx
+27,1,2462,Ragdoll
+9,2,2463,boxer
+1,1,2464,Abyssinian
+17,2,2465,havanese
+21,1,2466,Maine Coon
+2,2,2467,american bulldog
+35,2,2468,staffordshire bull terrier
+12,1,2469,Egyptian Mau
+17,2,2470,havanese
+19,2,2471,keeshond
+4,2,2472,basset hound
+12,1,2473,Egyptian Mau
+33,1,2474,Siamese
+3,2,2475,american pit bull terrier
+15,2,2476,german shorthaired
+25,2,2477,pomeranian
+16,2,2478,great pyrenees
+25,2,2479,pomeranian
+13,2,2480,english cocker spaniel
+13,2,2481,english cocker spaniel
+36,2,2482,wheaten terrier
+6,1,2483,Bengal
+22,2,2484,miniature pinscher
+15,2,2485,german shorthaired
+3,2,2486,american pit bull terrier
+34,1,2487,Sphynx
+9,2,2488,boxer
+3,2,2489,american pit bull terrier
+5,2,2490,beagle
+13,2,2491,english cocker spaniel
+28,1,2492,Russian Blue
+17,2,2493,havanese
+13,2,2494,english cocker spaniel
+21,1,2495,Maine Coon
+10,1,2496,British Shorthair
+17,2,2497,havanese
+29,2,2498,saint bernard
+2,2,2499,american bulldog
+22,2,2500,miniature pinscher
+14,2,2501,english setter
+17,2,2502,havanese
+36,2,2503,wheaten terrier
+12,1,2504,Egyptian Mau
+34,1,2505,Sphynx
+17,2,2506,havanese
+2,2,2507,american bulldog
+33,1,2508,Siamese
+28,1,2509,Russian Blue
+17,2,2510,havanese
+28,1,2511,Russian Blue
+7,1,2512,Birman
+7,1,2513,Birman
+1,1,2514,Abyssinian
+22,2,2515,miniature pinscher
+36,2,2516,wheaten terrier
+16,2,2517,great pyrenees
+37,2,2518,yorkshire terrier
+31,2,2519,scottish terrier
+8,1,2520,Bombay
+24,1,2521,Persian
+12,1,2522,Egyptian Mau
+34,1,2523,Sphynx
+10,1,2524,British Shorthair
+18,2,2525,japanese chin
+9,2,2526,boxer
+8,1,2527,Bombay
+37,2,2528,yorkshire terrier
+34,1,2529,Sphynx
+9,2,2530,boxer
+36,2,2531,wheaten terrier
+20,2,2532,leonberger
+14,2,2533,english setter
+37,2,2534,yorkshire terrier
+23,2,2535,newfoundland
+16,2,2536,great pyrenees
+34,1,2537,Sphynx
+1,1,2538,Abyssinian
+5,2,2539,beagle
+14,2,2540,english setter
+29,2,2541,saint bernard
+9,2,2542,boxer
+21,1,2543,Maine Coon
+14,2,2544,english setter
+7,1,2545,Birman
+8,1,2546,Bombay
+34,1,2547,Sphynx
+9,2,2548,boxer
+27,1,2549,Ragdoll
+32,2,2550,shiba inu
+25,2,2551,pomeranian
+36,2,2552,wheaten terrier
+31,2,2553,scottish terrier
+33,1,2554,Siamese
+10,1,2555,British Shorthair
+22,2,2556,miniature pinscher
+9,2,2557,boxer
+20,2,2558,leonberger
+10,1,2559,British Shorthair
+3,2,2560,american pit bull terrier
+14,2,2561,english setter
+20,2,2562,leonberger
+4,2,2563,basset hound
+37,2,2564,yorkshire terrier
+1,1,2565,Abyssinian
+6,1,2566,Bengal
+23,2,2567,newfoundland
+28,1,2568,Russian Blue
+35,2,2569,staffordshire bull terrier
+9,2,2570,boxer
+18,2,2571,japanese chin
+6,1,2572,Bengal
+31,2,2573,scottish terrier
+4,2,2574,basset hound
+11,2,2575,chihuahua
+30,2,2576,samoyed
+33,1,2577,Siamese
+37,2,2578,yorkshire terrier
+32,2,2579,shiba inu
+19,2,2580,keeshond
+8,1,2581,Bombay
+25,2,2582,pomeranian
+13,2,2583,english cocker spaniel
+26,2,2584,pug
+2,2,2585,american bulldog
+32,2,2586,shiba inu
+36,2,2587,wheaten terrier
+36,2,2588,wheaten terrier
+6,1,2589,Bengal
+15,2,2590,german shorthaired
+21,1,2591,Maine Coon
+24,1,2592,Persian
+32,2,2593,shiba inu
+23,2,2594,newfoundland
+37,2,2595,yorkshire terrier
+14,2,2596,english setter
+26,2,2597,pug
+23,2,2598,newfoundland
+4,2,2599,basset hound
+6,1,2600,Bengal
+33,1,2601,Siamese
+15,2,2602,german shorthaired
+34,1,2603,Sphynx
+21,1,2604,Maine Coon
+6,1,2605,Bengal
+30,2,2606,samoyed
+23,2,2607,newfoundland
+37,2,2608,yorkshire terrier
+8,1,2609,Bombay
+22,2,2610,miniature pinscher
+18,2,2611,japanese chin
+14,2,2612,english setter
+2,2,2613,american bulldog
+28,1,2614,Russian Blue
+23,2,2615,newfoundland
+15,2,2616,german shorthaired
+27,1,2617,Ragdoll
+34,1,2618,Sphynx
+19,2,2619,keeshond
+34,1,2620,Sphynx
+6,1,2621,Bengal
+23,2,2622,newfoundland
+22,2,2623,miniature pinscher
+10,1,2624,British Shorthair
+19,2,2625,keeshond
+37,2,2626,yorkshire terrier
+29,2,2627,saint bernard
+19,2,2628,keeshond
+23,2,2629,newfoundland
+29,2,2630,saint bernard
+37,2,2631,yorkshire terrier
+28,1,2632,Russian Blue
+23,2,2633,newfoundland
+13,2,2634,english cocker spaniel
+17,2,2635,havanese
+4,2,2636,basset hound
+16,2,2637,great pyrenees
+10,1,2638,British Shorthair
+11,2,2639,chihuahua
+19,2,2640,keeshond
+9,2,2641,boxer
+20,2,2642,leonberger
+11,2,2643,chihuahua
+29,2,2644,saint bernard
+31,2,2645,scottish terrier
+31,2,2646,scottish terrier
+31,2,2647,scottish terrier
+29,2,2648,saint bernard
+18,2,2649,japanese chin
+8,1,2650,Bombay
+37,2,2651,yorkshire terrier
+9,2,2652,boxer
+18,2,2653,japanese chin
+15,2,2654,german shorthaired
+31,2,2655,scottish terrier
+30,2,2656,samoyed
+2,2,2657,american bulldog
+5,2,2658,beagle
+13,2,2659,english cocker spaniel
+17,2,2660,havanese
+16,2,2661,great pyrenees
+22,2,2662,miniature pinscher
+4,2,2663,basset hound
+31,2,2664,scottish terrier
+36,2,2665,wheaten terrier
+14,2,2666,english setter
+37,2,2667,yorkshire terrier
+23,2,2668,newfoundland
+7,1,2669,Birman
+16,2,2670,great pyrenees
+9,2,2671,boxer
+11,2,2672,chihuahua
+17,2,2673,havanese
+22,2,2674,miniature pinscher
+18,2,2675,japanese chin
+37,2,2676,yorkshire terrier
+6,1,2677,Bengal
+6,1,2678,Bengal
+13,2,2679,english cocker spaniel
+4,2,2680,basset hound
+31,2,2681,scottish terrier
+32,2,2682,shiba inu
+7,1,2683,Birman
+21,1,2684,Maine Coon
+27,1,2685,Ragdoll
+26,2,2686,pug
+20,2,2687,leonberger
+33,1,2688,Siamese
+9,2,2689,boxer
+2,2,2690,american bulldog
+11,2,2691,chihuahua
+30,2,2692,samoyed
+11,2,2693,chihuahua
+25,2,2694,pomeranian
+7,1,2695,Birman
+10,1,2696,British Shorthair
+36,2,2697,wheaten terrier
+18,2,2698,japanese chin
+36,2,2699,wheaten terrier
+4,2,2700,basset hound
+20,2,2701,leonberger
+12,1,2702,Egyptian Mau
+17,2,2703,havanese
+9,2,2704,boxer
+16,2,2705,great pyrenees
+26,2,2706,pug
+7,1,2707,Birman
+11,2,2708,chihuahua
+34,1,2709,Sphynx
+18,2,2710,japanese chin
+19,2,2711,keeshond
+8,1,2712,Bombay
+8,1,2713,Bombay
+15,2,2714,german shorthaired
+10,1,2715,British Shorthair
+4,2,2716,basset hound
+4,2,2717,basset hound
+30,2,2718,samoyed
+32,2,2719,shiba inu
+10,1,2720,British Shorthair
+36,2,2721,wheaten terrier
+33,1,2722,Siamese
+30,2,2723,samoyed
+2,2,2724,american bulldog
+23,2,2725,newfoundland
+21,1,2726,Maine Coon
+21,1,2727,Maine Coon
+11,2,2728,chihuahua
+15,2,2729,german shorthaired
+4,2,2730,basset hound
+4,2,2731,basset hound
+20,2,2732,leonberger
+35,2,2733,staffordshire bull terrier
+33,1,2734,Siamese
+28,1,2735,Russian Blue
+1,1,2736,Abyssinian
+7,1,2737,Birman
+12,1,2738,Egyptian Mau
+31,2,2739,scottish terrier
+33,1,2740,Siamese
+22,2,2741,miniature pinscher
+19,2,2742,keeshond
+29,2,2743,saint bernard
+26,2,2744,pug
+6,1,2745,Bengal
+10,1,2746,British Shorthair
+29,2,2747,saint bernard
+15,2,2748,german shorthaired
+25,2,2749,pomeranian
+36,2,2750,wheaten terrier
+12,1,2751,Egyptian Mau
+22,2,2752,miniature pinscher
+37,2,2753,yorkshire terrier
+32,2,2754,shiba inu
+17,2,2755,havanese
+16,2,2756,great pyrenees
+30,2,2757,samoyed
+4,2,2758,basset hound
+31,2,2759,scottish terrier
+4,2,2760,basset hound
+8,1,2761,Bombay
+36,2,2762,wheaten terrier
+14,2,2763,english setter
+26,2,2764,pug
+33,1,2765,Siamese
+33,1,2766,Siamese
+34,1,2767,Sphynx
+7,1,2768,Birman
+32,2,2769,shiba inu
+25,2,2770,pomeranian
+31,2,2771,scottish terrier
+2,2,2772,american bulldog
+6,1,2773,Bengal
+25,2,2774,pomeranian
+30,2,2775,samoyed
+5,2,2776,beagle
+21,1,2777,Maine Coon
+23,2,2778,newfoundland
+17,2,2779,havanese
+26,2,2780,pug
+12,1,2781,Egyptian Mau
+5,2,2782,beagle
+32,2,2783,shiba inu
+32,2,2784,shiba inu
+26,2,2785,pug
+7,1,2786,Birman
+20,2,2787,leonberger
+29,2,2788,saint bernard
+11,2,2789,chihuahua
+31,2,2790,scottish terrier
+1,1,2791,Abyssinian
+17,2,2792,havanese
+36,2,2793,wheaten terrier
+16,2,2794,great pyrenees
+30,2,2795,samoyed
+10,1,2796,British Shorthair
+18,2,2797,japanese chin
+6,1,2798,Bengal
+23,2,2799,newfoundland
+20,2,2800,leonberger
+16,2,2801,great pyrenees
+11,2,2802,chihuahua
+30,2,2803,samoyed
+28,1,2804,Russian Blue
+11,2,2805,chihuahua
+15,2,2806,german shorthaired
+4,2,2807,basset hound
+14,2,2808,english setter
+18,2,2809,japanese chin
+23,2,2810,newfoundland
+9,2,2811,boxer
+25,2,2812,pomeranian
+10,1,2813,British Shorthair
+9,2,2814,boxer
+24,1,2815,Persian
+10,1,2816,British Shorthair
+28,1,2817,Russian Blue
+35,2,2818,staffordshire bull terrier
+11,2,2819,chihuahua
+7,1,2820,Birman
+8,1,2821,Bombay
+27,1,2822,Ragdoll
+8,1,2823,Bombay
+13,2,2824,english cocker spaniel
+11,2,2825,chihuahua
+28,1,2826,Russian Blue
+3,2,2827,american pit bull terrier
+25,2,2828,pomeranian
+3,2,2829,american pit bull terrier
+12,1,2830,Egyptian Mau
+5,2,2831,beagle
+15,2,2832,german shorthaired
+29,2,2833,saint bernard
+8,1,2834,Bombay
+3,2,2835,american pit bull terrier
+24,1,2836,Persian
+28,1,2837,Russian Blue
+15,2,2838,german shorthaired
+34,1,2839,Sphynx
+31,2,2840,scottish terrier
+19,2,2841,keeshond
+19,2,2842,keeshond
+37,2,2843,yorkshire terrier
+1,1,2844,Abyssinian
+22,2,2845,miniature pinscher
+9,2,2846,boxer
+24,1,2847,Persian
+13,2,2848,english cocker spaniel
+3,2,2849,american pit bull terrier
+18,2,2850,japanese chin
+29,2,2851,saint bernard
+37,2,2852,yorkshire terrier
+17,2,2853,havanese
+31,2,2854,scottish terrier
+30,2,2855,samoyed
+21,1,2856,Maine Coon
+5,2,2857,beagle
+34,1,2858,Sphynx
+31,2,2859,scottish terrier
+11,2,2860,chihuahua
+17,2,2861,havanese
+10,1,2862,British Shorthair
+16,2,2863,great pyrenees
+3,2,2864,american pit bull terrier
+30,2,2865,samoyed
+19,2,2866,keeshond
+3,2,2867,american pit bull terrier
+20,2,2868,leonberger
+35,2,2869,staffordshire bull terrier
+29,2,2870,saint bernard
+18,2,2871,japanese chin
+26,2,2872,pug
+37,2,2873,yorkshire terrier
+10,1,2874,British Shorthair
+5,2,2875,beagle
+13,2,2876,english cocker spaniel
+9,2,2877,boxer
+20,2,2878,leonberger
+2,2,2879,american bulldog
+1,1,2880,Abyssinian
+20,2,2881,leonberger
+3,2,2882,american pit bull terrier
+31,2,2883,scottish terrier
+35,2,2884,staffordshire bull terrier
+7,1,2885,Birman
+1,1,2886,Abyssinian
+4,2,2887,basset hound
+24,1,2888,Persian
+16,2,2889,great pyrenees
+4,2,2890,basset hound
+9,2,2891,boxer
+14,2,2892,english setter
+32,2,2893,shiba inu
+19,2,2894,keeshond
+1,1,2895,Abyssinian
+16,2,2896,great pyrenees
+31,2,2897,scottish terrier
+3,2,2898,american pit bull terrier
+15,2,2899,german shorthaired
+6,1,2900,Bengal
+24,1,2901,Persian
+21,1,2902,Maine Coon
+16,2,2903,great pyrenees
+8,1,2904,Bombay
+2,2,2905,american bulldog
+11,2,2906,chihuahua
+13,2,2907,english cocker spaniel
+20,2,2908,leonberger
+25,2,2909,pomeranian
+7,1,2910,Birman
+2,2,2911,american bulldog
+20,2,2912,leonberger
+20,2,2913,leonberger
+28,1,2914,Russian Blue
+8,1,2915,Bombay
+23,2,2916,newfoundland
+37,2,2917,yorkshire terrier
+16,2,2918,great pyrenees
+7,1,2919,Birman
+16,2,2920,great pyrenees
+1,1,2921,Abyssinian
+1,1,2922,Abyssinian
+14,2,2923,english setter
+19,2,2924,keeshond
+23,2,2925,newfoundland
+26,2,2926,pug
+34,1,2927,Sphynx
+27,1,2928,Ragdoll
+26,2,2929,pug
+11,2,2930,chihuahua
+29,2,2931,saint bernard
+4,2,2932,basset hound
+24,1,2933,Persian
+10,1,2934,British Shorthair
+3,2,2935,american pit bull terrier
+1,1,2936,Abyssinian
+17,2,2937,havanese
+10,1,2938,British Shorthair
+24,1,2939,Persian
+26,2,2940,pug
+35,2,2941,staffordshire bull terrier
+32,2,2942,shiba inu
+36,2,2943,wheaten terrier
+4,2,2944,basset hound
+16,2,2945,great pyrenees
+8,1,2946,Bombay
+35,2,2947,staffordshire bull terrier
+26,2,2948,pug
+34,1,2949,Sphynx
+27,1,2950,Ragdoll
+30,2,2951,samoyed
+18,2,2952,japanese chin
+1,1,2953,Abyssinian
+34,1,2954,Sphynx
+4,2,2955,basset hound
+28,1,2956,Russian Blue
+4,2,2957,basset hound
+23,2,2958,newfoundland
+33,1,2959,Siamese
+22,2,2960,miniature pinscher
+19,2,2961,keeshond
+16,2,2962,great pyrenees
+14,2,2963,english setter
+1,1,2964,Abyssinian
+2,2,2965,american bulldog
+27,1,2966,Ragdoll
+36,2,2967,wheaten terrier
+27,1,2968,Ragdoll
+15,2,2969,german shorthaired
+34,1,2970,Sphynx
+25,2,2971,pomeranian
+2,2,2972,american bulldog
+32,2,2973,shiba inu
+20,2,2974,leonberger
+21,1,2975,Maine Coon
+4,2,2976,basset hound
+34,1,2977,Sphynx
+29,2,2978,saint bernard
+19,2,2979,keeshond
+26,2,2980,pug
+3,2,2981,american pit bull terrier
+8,1,2982,Bombay
+11,2,2983,chihuahua
+15,2,2984,german shorthaired
+15,2,2985,german shorthaired
+24,1,2986,Persian
+3,2,2987,american pit bull terrier
+3,2,2988,american pit bull terrier
+18,2,2989,japanese chin
+7,1,2990,Birman
+14,2,2991,english setter
+1,1,2992,Abyssinian
+16,2,2993,great pyrenees
+14,2,2994,english setter
+22,2,2995,miniature pinscher
+15,2,2996,german shorthaired
+33,1,2997,Siamese
+8,1,2998,Bombay
+26,2,2999,pug
+15,2,3000,german shorthaired
+1,1,3001,Abyssinian
+21,1,3002,Maine Coon
+19,2,3003,keeshond
+9,2,3004,boxer
+32,2,3005,shiba inu
+37,2,3006,yorkshire terrier
+20,2,3007,leonberger
+13,2,3008,english cocker spaniel
+37,2,3009,yorkshire terrier
+30,2,3010,samoyed
+7,1,3011,Birman
+33,1,3012,Siamese
+12,1,3013,Egyptian Mau
+12,1,3014,Egyptian Mau
+6,1,3015,Bengal
+30,2,3016,samoyed
+3,2,3017,american pit bull terrier
+6,1,3018,Bengal
+4,2,3019,basset hound
+27,1,3020,Ragdoll
+20,2,3021,leonberger
+10,1,3022,British Shorthair
+30,2,3023,samoyed
+8,1,3024,Bombay
+7,1,3025,Birman
+5,2,3026,beagle
+10,1,3027,British Shorthair
+25,2,3028,pomeranian
+16,2,3029,great pyrenees
+28,1,3030,Russian Blue
+28,1,3031,Russian Blue
+37,2,3032,yorkshire terrier
+29,2,3033,saint bernard
+27,1,3034,Ragdoll
+3,2,3035,american pit bull terrier
+3,2,3036,american pit bull terrier
+6,1,3037,Bengal
+34,1,3038,Sphynx
+37,2,3039,yorkshire terrier
+4,2,3040,basset hound
+10,1,3041,British Shorthair
+14,2,3042,english setter
+9,2,3043,boxer
+22,2,3044,miniature pinscher
+29,2,3045,saint bernard
+33,1,3046,Siamese
+37,2,3047,yorkshire terrier
+34,1,3048,Sphynx
+28,1,3049,Russian Blue
+14,2,3050,english setter
+16,2,3051,great pyrenees
+17,2,3052,havanese
+25,2,3053,pomeranian
+32,2,3054,shiba inu
+29,2,3055,saint bernard
+16,2,3056,great pyrenees
+4,2,3057,basset hound
+20,2,3058,leonberger
+34,1,3059,Sphynx
+23,2,3060,newfoundland
+36,2,3061,wheaten terrier
+12,1,3062,Egyptian Mau
+35,2,3063,staffordshire bull terrier
+10,1,3064,British Shorthair
+15,2,3065,german shorthaired
+31,2,3066,scottish terrier
+5,2,3067,beagle
+14,2,3068,english setter
+24,1,3069,Persian
+22,2,3070,miniature pinscher
+27,1,3071,Ragdoll
+21,1,3072,Maine Coon
+29,2,3073,saint bernard
+29,2,3074,saint bernard
+4,2,3075,basset hound
+32,2,3076,shiba inu
+27,1,3077,Ragdoll
+31,2,3078,scottish terrier
+11,2,3079,chihuahua
+2,2,3080,american bulldog
+35,2,3081,staffordshire bull terrier
+5,2,3082,beagle
+31,2,3083,scottish terrier
+19,2,3084,keeshond
+11,2,3085,chihuahua
+9,2,3086,boxer
+8,1,3087,Bombay
+5,2,3088,beagle
+22,2,3089,miniature pinscher
+37,2,3090,yorkshire terrier
+17,2,3091,havanese
+13,2,3092,english cocker spaniel
+24,1,3093,Persian
+32,2,3094,shiba inu
+31,2,3095,scottish terrier
+6,1,3096,Bengal
+10,1,3097,British Shorthair
+4,2,3098,basset hound
+17,2,3099,havanese
+20,2,3100,leonberger
+27,1,3101,Ragdoll
+29,2,3102,saint bernard
+4,2,3103,basset hound
+18,2,3104,japanese chin
+11,2,3105,chihuahua
+17,2,3106,havanese
+7,1,3107,Birman
+7,1,3108,Birman
+2,2,3109,american bulldog
+16,2,3110,great pyrenees
+21,1,3111,Maine Coon
+1,1,3112,Abyssinian
+21,1,3113,Maine Coon
+11,2,3114,chihuahua
+32,2,3115,shiba inu
+26,2,3116,pug
+37,2,3117,yorkshire terrier
+4,2,3118,basset hound
+12,1,3119,Egyptian Mau
+13,2,3120,english cocker spaniel
+21,1,3121,Maine Coon
+32,2,3122,shiba inu
+29,2,3123,saint bernard
+21,1,3124,Maine Coon
+29,2,3125,saint bernard
+36,2,3126,wheaten terrier
+14,2,3127,english setter
+8,1,3128,Bombay
+33,1,3129,Siamese
+18,2,3130,japanese chin
+5,2,3131,beagle
+30,2,3132,samoyed
+24,1,3133,Persian
+21,1,3134,Maine Coon
+32,2,3135,shiba inu
+6,1,3136,Bengal
+35,2,3137,staffordshire bull terrier
+8,1,3138,Bombay
+6,1,3139,Bengal
+6,1,3140,Bengal
+21,1,3141,Maine Coon
+1,1,3142,Abyssinian
+18,2,3143,japanese chin
+25,2,3144,pomeranian
+21,1,3145,Maine Coon
+3,2,3146,american pit bull terrier
+1,1,3147,Abyssinian
+11,2,3148,chihuahua
+6,1,3149,Bengal
+20,2,3150,leonberger
+33,1,3151,Siamese
+36,2,3152,wheaten terrier
+12,1,3153,Egyptian Mau
+26,2,3154,pug
+31,2,3155,scottish terrier
+8,1,3156,Bombay
+28,1,3157,Russian Blue
+30,2,3158,samoyed
+12,1,3159,Egyptian Mau
+20,2,3160,leonberger
+8,1,3161,Bombay
+6,1,3162,Bengal
+32,2,3163,shiba inu
+37,2,3164,yorkshire terrier
+30,2,3165,samoyed
+20,2,3166,leonberger
+3,2,3167,american pit bull terrier
+31,2,3168,scottish terrier
+5,2,3169,beagle
+15,2,3170,german shorthaired
+27,1,3171,Ragdoll
+32,2,3172,shiba inu
+32,2,3173,shiba inu
+27,1,3174,Ragdoll
+25,2,3175,pomeranian
+6,1,3176,Bengal
+31,2,3177,scottish terrier
+13,2,3178,english cocker spaniel
+17,2,3179,havanese
+2,2,3180,american bulldog
+18,2,3181,japanese chin
+25,2,3182,pomeranian
+11,2,3183,chihuahua
+33,1,3184,Siamese
+14,2,3185,english setter
+14,2,3186,english setter
+10,1,3187,British Shorthair
+29,2,3188,saint bernard
+12,1,3189,Egyptian Mau
+1,1,3190,Abyssinian
+1,1,3191,Abyssinian
+2,2,3192,american bulldog
+32,2,3193,shiba inu
+27,1,3194,Ragdoll
+17,2,3195,havanese
+16,2,3196,great pyrenees
+16,2,3197,great pyrenees
+14,2,3198,english setter
+29,2,3199,saint bernard
+33,1,3200,Siamese
+19,2,3201,keeshond
+13,2,3202,english cocker spaniel
+17,2,3203,havanese
+37,2,3204,yorkshire terrier
+8,1,3205,Bombay
+15,2,3206,german shorthaired
+32,2,3207,shiba inu
+31,2,3208,scottish terrier
+33,1,3209,Siamese
+8,1,3210,Bombay
+22,2,3211,miniature pinscher
+31,2,3212,scottish terrier
+10,1,3213,British Shorthair
+24,1,3214,Persian
+18,2,3215,japanese chin
+14,2,3216,english setter
+20,2,3217,leonberger
+25,2,3218,pomeranian
+2,2,3219,american bulldog
+32,2,3220,shiba inu
+34,1,3221,Sphynx
+15,2,3222,german shorthaired
+34,1,3223,Sphynx
+16,2,3224,great pyrenees
+19,2,3225,keeshond
+35,2,3226,staffordshire bull terrier
+12,1,3227,Egyptian Mau
+23,2,3228,newfoundland
+16,2,3229,great pyrenees
+28,1,3230,Russian Blue
+16,2,3231,great pyrenees
+8,1,3232,Bombay
+22,2,3233,miniature pinscher
+19,2,3234,keeshond
+37,2,3235,yorkshire terrier
+5,2,3236,beagle
+35,2,3237,staffordshire bull terrier
+28,1,3238,Russian Blue
+29,2,3239,saint bernard
+26,2,3240,pug
+36,2,3241,wheaten terrier
+35,2,3242,staffordshire bull terrier
+32,2,3243,shiba inu
+11,2,3244,chihuahua
+31,2,3245,scottish terrier
+25,2,3246,pomeranian
+13,2,3247,english cocker spaniel
+17,2,3248,havanese
+30,2,3249,samoyed
+18,2,3250,japanese chin
+15,2,3251,german shorthaired
+27,1,3252,Ragdoll
+36,2,3253,wheaten terrier
+26,2,3254,pug
+28,1,3255,Russian Blue
+12,1,3256,Egyptian Mau
+26,2,3257,pug
+35,2,3258,staffordshire bull terrier
+37,2,3259,yorkshire terrier
+22,2,3260,miniature pinscher
+24,1,3261,Persian
+20,2,3262,leonberger
+21,1,3263,Maine Coon
+18,2,3264,japanese chin
+33,1,3265,Siamese
+19,2,3266,keeshond
+36,2,3267,wheaten terrier
+28,1,3268,Russian Blue
+20,2,3269,leonberger
+37,2,3270,yorkshire terrier
+29,2,3271,saint bernard
+9,2,3272,boxer
+10,1,3273,British Shorthair
+11,2,3274,chihuahua
+21,1,3275,Maine Coon
+31,2,3276,scottish terrier
+5,2,3277,beagle
+27,1,3278,Ragdoll
+11,2,3279,chihuahua
+14,2,3280,english setter
+16,2,3281,great pyrenees
+9,2,3282,boxer
+26,2,3283,pug
+21,1,3284,Maine Coon
+32,2,3285,shiba inu
+33,1,3286,Siamese
+36,2,3287,wheaten terrier
+30,2,3288,samoyed
+31,2,3289,scottish terrier
+9,2,3290,boxer
+17,2,3291,havanese
+37,2,3292,yorkshire terrier
+9,2,3293,boxer
+3,2,3294,american pit bull terrier
+2,2,3295,american bulldog
+27,1,3296,Ragdoll
+9,2,3297,boxer
+10,1,3298,British Shorthair
+10,1,3299,British Shorthair
+23,2,3300,newfoundland
+26,2,3301,pug
+20,2,3302,leonberger
+5,2,3303,beagle
+31,2,3304,scottish terrier
+37,2,3305,yorkshire terrier
+33,1,3306,Siamese
+9,2,3307,boxer
+34,1,3308,Sphynx
+17,2,3309,havanese
+5,2,3310,beagle
+31,2,3311,scottish terrier
+16,2,3312,great pyrenees
+20,2,3313,leonberger
+12,1,3314,Egyptian Mau
+16,2,3315,great pyrenees
+5,2,3316,beagle
+29,2,3317,saint bernard
+31,2,3318,scottish terrier
+29,2,3319,saint bernard
+25,2,3320,pomeranian
+21,1,3321,Maine Coon
+18,2,3322,japanese chin
+31,2,3323,scottish terrier
+16,2,3324,great pyrenees
+11,2,3325,chihuahua
+2,2,3326,american bulldog
+22,2,3327,miniature pinscher
+18,2,3328,japanese chin
+19,2,3329,keeshond
+18,2,3330,japanese chin
+23,2,3331,newfoundland
+35,2,3332,staffordshire bull terrier
+26,2,3333,pug
+25,2,3334,pomeranian
+9,2,3335,boxer
+24,1,3336,Persian
+34,1,3337,Sphynx
+16,2,3338,great pyrenees
+3,2,3339,american pit bull terrier
+4,2,3340,basset hound
+17,2,3341,havanese
+15,2,3342,german shorthaired
+16,2,3343,great pyrenees
+29,2,3344,saint bernard
+12,1,3345,Egyptian Mau
+26,2,3346,pug
+37,2,3347,yorkshire terrier
+19,2,3348,keeshond
+37,2,3349,yorkshire terrier
+29,2,3350,saint bernard
+12,1,3351,Egyptian Mau
+31,2,3352,scottish terrier
+7,1,3353,Birman
+19,2,3354,keeshond
+30,2,3355,samoyed
+33,1,3356,Siamese
+8,1,3357,Bombay
+15,2,3358,german shorthaired
+19,2,3359,keeshond
+30,2,3360,samoyed
+17,2,3361,havanese
+5,2,3362,beagle
+33,1,3363,Siamese
+17,2,3364,havanese
+5,2,3365,beagle
+35,2,3366,staffordshire bull terrier
+33,1,3367,Siamese
+28,1,3368,Russian Blue
+1,1,3369,Abyssinian
+32,2,3370,shiba inu
+6,1,3371,Bengal
+25,2,3372,pomeranian
+8,1,3373,Bombay
+33,1,3374,Siamese
+28,1,3375,Russian Blue
+37,2,3376,yorkshire terrier
+34,1,3377,Sphynx
+36,2,3378,wheaten terrier
+16,2,3379,great pyrenees
+23,2,3380,newfoundland
+1,1,3381,Abyssinian
+29,2,3382,saint bernard
+20,2,3383,leonberger
+9,2,3384,boxer
+35,2,3385,staffordshire bull terrier
+26,2,3386,pug
+30,2,3387,samoyed
+16,2,3388,great pyrenees
+23,2,3389,newfoundland
+18,2,3390,japanese chin
+1,1,3391,Abyssinian
+13,2,3392,english cocker spaniel
+24,1,3393,Persian
+25,2,3394,pomeranian
+15,2,3395,german shorthaired
+7,1,3396,Birman
+21,1,3397,Maine Coon
+35,2,3398,staffordshire bull terrier
+24,1,3399,Persian
+16,2,3400,great pyrenees
+8,1,3401,Bombay
+10,1,3402,British Shorthair
+35,2,3403,staffordshire bull terrier
+4,2,3404,basset hound
+37,2,3405,yorkshire terrier
+4,2,3406,basset hound
+31,2,3407,scottish terrier
+35,2,3408,staffordshire bull terrier
+13,2,3409,english cocker spaniel
+36,2,3410,wheaten terrier
+3,2,3411,american pit bull terrier
+10,1,3412,British Shorthair
+8,1,3413,Bombay
+33,1,3414,Siamese
+34,1,3415,Sphynx
+33,1,3416,Siamese
+26,2,3417,pug
+18,2,3418,japanese chin
+36,2,3419,wheaten terrier
+4,2,3420,basset hound
+5,2,3421,beagle
+25,2,3422,pomeranian
+30,2,3423,samoyed
+25,2,3424,pomeranian
+3,2,3425,american pit bull terrier
+4,2,3426,basset hound
+29,2,3427,saint bernard
+36,2,3428,wheaten terrier
+3,2,3429,american pit bull terrier
+13,2,3430,english cocker spaniel
+37,2,3431,yorkshire terrier
+35,2,3432,staffordshire bull terrier
+7,1,3433,Birman
+20,2,3434,leonberger
+13,2,3435,english cocker spaniel
+19,2,3436,keeshond
+10,1,3437,British Shorthair
+14,2,3438,english setter
+1,1,3439,Abyssinian
+12,1,3440,Egyptian Mau
+32,2,3441,shiba inu
+34,1,3442,Sphynx
+28,1,3443,Russian Blue
+11,2,3444,chihuahua
+4,2,3445,basset hound
+13,2,3446,english cocker spaniel
+17,2,3447,havanese
+24,1,3448,Persian
+26,2,3449,pug
+24,1,3450,Persian
+36,2,3451,wheaten terrier
+24,1,3452,Persian
+29,2,3453,saint bernard
+16,2,3454,great pyrenees
+24,1,3455,Persian
+34,1,3456,Sphynx
+26,2,3457,pug
+25,2,3458,pomeranian
+22,2,3459,miniature pinscher
+21,1,3460,Maine Coon
+31,2,3461,scottish terrier
+8,1,3462,Bombay
+33,1,3463,Siamese
+37,2,3464,yorkshire terrier
+22,2,3465,miniature pinscher
+24,1,3466,Persian
+6,1,3467,Bengal
+20,2,3468,leonberger
+2,2,3469,american bulldog
+11,2,3470,chihuahua
+20,2,3471,leonberger
+29,2,3472,saint bernard
+21,1,3473,Maine Coon
+32,2,3474,shiba inu
+35,2,3475,staffordshire bull terrier
+27,1,3476,Ragdoll
+15,2,3477,german shorthaired
+32,2,3478,shiba inu
+16,2,3479,great pyrenees
+5,2,3480,beagle
+27,1,3481,Ragdoll
+13,2,3482,english cocker spaniel
+24,1,3483,Persian
+4,2,3484,basset hound
+36,2,3485,wheaten terrier
+33,1,3486,Siamese
+34,1,3487,Sphynx
+4,2,3488,basset hound
+16,2,3489,great pyrenees
+35,2,3490,staffordshire bull terrier
+24,1,3491,Persian
+20,2,3492,leonberger
+11,2,3493,chihuahua
+7,1,3494,Birman
+9,2,3495,boxer
+10,1,3496,British Shorthair
+31,2,3497,scottish terrier
+35,2,3498,staffordshire bull terrier
+17,2,3499,havanese
+28,1,3500,Russian Blue
+23,2,3501,newfoundland
+10,1,3502,British Shorthair
+29,2,3503,saint bernard
+37,2,3504,yorkshire terrier
+19,2,3505,keeshond
+5,2,3506,beagle
+7,1,3507,Birman
+10,1,3508,British Shorthair
+7,1,3509,Birman
+2,2,3510,american bulldog
+31,2,3511,scottish terrier
+18,2,3512,japanese chin
+30,2,3513,samoyed
+6,1,3514,Bengal
+20,2,3515,leonberger
+32,2,3516,shiba inu
+2,2,3517,american bulldog
+4,2,3518,basset hound
+24,1,3519,Persian
+13,2,3520,english cocker spaniel
+7,1,3521,Birman
+15,2,3522,german shorthaired
+22,2,3523,miniature pinscher
+17,2,3524,havanese
+20,2,3525,leonberger
+5,2,3526,beagle
+14,2,3527,english setter
+20,2,3528,leonberger
+17,2,3529,havanese
+13,2,3530,english cocker spaniel
+7,1,3531,Birman
+12,1,3532,Egyptian Mau
+5,2,3533,beagle
+37,2,3534,yorkshire terrier
+34,1,3535,Sphynx
+25,2,3536,pomeranian
+29,2,3537,saint bernard
+16,2,3538,great pyrenees
+1,1,3539,Abyssinian
+2,2,3540,american bulldog
+17,2,3541,havanese
+24,1,3542,Persian
+26,2,3543,pug
+8,1,3544,Bombay
+33,1,3545,Siamese
+23,2,3546,newfoundland
+11,2,3547,chihuahua
+4,2,3548,basset hound
+36,2,3549,wheaten terrier
+13,2,3550,english cocker spaniel
+22,2,3551,miniature pinscher
+32,2,3552,shiba inu
+4,2,3553,basset hound
+4,2,3554,basset hound
+25,2,3555,pomeranian
+10,1,3556,British Shorthair
+37,2,3557,yorkshire terrier
+15,2,3558,german shorthaired
+15,2,3559,german shorthaired
+12,1,3560,Egyptian Mau
+9,2,3561,boxer
+27,1,3562,Ragdoll
+30,2,3563,samoyed
+7,1,3564,Birman
+25,2,3565,pomeranian
+10,1,3566,British Shorthair
+15,2,3567,german shorthaired
+24,1,3568,Persian
+33,1,3569,Siamese
+20,2,3570,leonberger
+32,2,3571,shiba inu
+28,1,3572,Russian Blue
+35,2,3573,staffordshire bull terrier
+3,2,3574,american pit bull terrier
+19,2,3575,keeshond
+21,1,3576,Maine Coon
+32,2,3577,shiba inu
+30,2,3578,samoyed
+23,2,3579,newfoundland
+17,2,3580,havanese
+25,2,3581,pomeranian
+18,2,3582,japanese chin
+7,1,3583,Birman
+15,2,3584,german shorthaired
+35,2,3585,staffordshire bull terrier
+23,2,3586,newfoundland
+29,2,3587,saint bernard
+35,2,3588,staffordshire bull terrier
+3,2,3589,american pit bull terrier
+34,1,3590,Sphynx
+10,1,3591,British Shorthair
+30,2,3592,samoyed
+24,1,3593,Persian
+11,2,3594,chihuahua
+25,2,3595,pomeranian
+5,2,3596,beagle
+27,1,3597,Ragdoll
+31,2,3598,scottish terrier
+30,2,3599,samoyed
+9,2,3600,boxer
+8,1,3601,Bombay
+28,1,3602,Russian Blue
+20,2,3603,leonberger
+3,2,3604,american pit bull terrier
+18,2,3605,japanese chin
+13,2,3606,english cocker spaniel
+35,2,3607,staffordshire bull terrier
+24,1,3608,Persian
+22,2,3609,miniature pinscher
+13,2,3610,english cocker spaniel
+27,1,3611,Ragdoll
+5,2,3612,beagle
+16,2,3613,great pyrenees
+8,1,3614,Bombay
+22,2,3615,miniature pinscher
+31,2,3616,scottish terrier
+9,2,3617,boxer
+9,2,3618,boxer
+15,2,3619,german shorthaired
+16,2,3620,great pyrenees
+10,1,3621,British Shorthair
+17,2,3622,havanese
+11,2,3623,chihuahua
+29,2,3624,saint bernard
+15,2,3625,german shorthaired
+33,1,3626,Siamese
+24,1,3627,Persian
+21,1,3628,Maine Coon
+13,2,3629,english cocker spaniel
+15,2,3630,german shorthaired
+32,2,3631,shiba inu
+7,1,3632,Birman
+25,2,3633,pomeranian
+32,2,3634,shiba inu
+34,1,3635,Sphynx
+12,1,3636,Egyptian Mau
+22,2,3637,miniature pinscher
+18,2,3638,japanese chin
+4,2,3639,basset hound
+27,1,3640,Ragdoll
+8,1,3641,Bombay
+10,1,3642,British Shorthair
+21,1,3643,Maine Coon
+36,2,3644,wheaten terrier
+8,1,3645,Bombay
+8,1,3646,Bombay
+13,2,3647,english cocker spaniel
+5,2,3648,beagle
+2,2,3649,american bulldog
+34,1,3650,Sphynx
+11,2,3651,chihuahua
+37,2,3652,yorkshire terrier
+35,2,3653,staffordshire bull terrier
+19,2,3654,keeshond
+28,1,3655,Russian Blue
+37,2,3656,yorkshire terrier
+6,1,3657,Bengal
+23,2,3658,newfoundland
+14,2,3659,english setter
+9,2,3660,boxer
+18,2,3661,japanese chin
+18,2,3662,japanese chin
+34,1,3663,Sphynx
+32,2,3664,shiba inu
+7,1,3665,Birman
+3,2,3666,american pit bull terrier
+24,1,3667,Persian
+11,2,3668,chihuahua
+3,2,3669,american pit bull terrier
+3,2,3670,american pit bull terrier
+7,1,3671,Birman
+3,2,3672,american pit bull terrier
+13,2,3673,english cocker spaniel
+4,2,3674,basset hound
+36,2,3675,wheaten terrier
+19,2,3676,keeshond
+2,2,3677,american bulldog
+24,1,3678,Persian
+24,1,3679,Persian

@@ -9,5 +9,8 @@ data/gan_project/image_gen
 data/gan_project/models
 data/gan_project/cool_pics
 data/gan_project/large
+data/pet_classifier/train
+data/pet_classifier/test
+data/pet_classifier/models
 
 .ipynb_checkpoints/
